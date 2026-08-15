@@ -42,7 +42,7 @@
             "last_commit": "2026-08-01T00:34:00Z",
             "owner": "bebop",
             "repo": "poly",
-            "stars": 735
+            "stars": 736
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T11:43:09Z",
+            "last_commit": "2026-08-15T12:54:30Z",
             "owner": "seqan",
             "repo": "seqan3",
-            "stars": 460
+            "stars": 459
           }
         },
         {
@@ -338,10 +338,10 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-08-13T18:14:59Z",
+            "last_commit": "2026-08-15T15:08:17Z",
             "owner": "nextflow-io",
             "repo": "nextflow",
-            "stars": 3464
+            "stars": 3465
           }
         },
         {
@@ -352,7 +352,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Workflow Language",
-            "last_commit": "2026-01-08T17:02:10Z",
+            "last_commit": "2026-08-15T15:04:09Z",
             "owner": "common-workflow-language",
             "repo": "common-workflow-language",
             "stars": 1480
@@ -658,7 +658,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-14T14:39:33Z",
+            "last_commit": "2026-08-15T09:52:19Z",
             "owner": "telatin",
             "repo": "seqfu2",
             "stars": 129
@@ -720,7 +720,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:30:00Z",
+            "last_commit": "2026-08-14T19:32:27Z",
             "owner": "hail-is",
             "repo": "hail",
             "stars": 1069
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-07T13:43:25Z",
             "owner": "lh3",
             "repo": "bwa",
-            "stars": 1765
+            "stars": 1764
           }
         },
         {
@@ -900,7 +900,7 @@
             "last_commit": "2026-03-19T04:57:17Z",
             "owner": "google",
             "repo": "deepvariant",
-            "stars": 3779
+            "stars": 3780
           }
         },
         {
@@ -928,7 +928,7 @@
             "last_commit": "2026-04-20T19:20:01Z",
             "owner": "freebayes",
             "repo": "freebayes",
-            "stars": 877
+            "stars": 876
           }
         },
         {
@@ -1218,7 +1218,7 @@
             "last_commit": "2026-06-10T22:16:43Z",
             "owner": "arq5x",
             "repo": "bedtools2",
-            "stars": 1046
+            "stars": 1045
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2021-09-03T14:58:22Z",
             "owner": "lh3",
             "repo": "wgsim",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -1401,7 +1401,7 @@
             "last_commit": "2026-08-10T20:51:05Z",
             "owner": "pysam-developers",
             "repo": "pysam",
-            "stars": 905
+            "stars": 904
           }
         },
         {
@@ -1468,7 +1468,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:44:44Z",
+            "last_commit": "2026-08-15T06:25:46Z",
             "owner": "biodatageeks",
             "repo": "polars-bio",
             "stars": 190
@@ -1505,7 +1505,7 @@
             "last_commit": "2026-05-19T22:40:40Z",
             "owner": "lh3",
             "repo": "minimap2",
-            "stars": 2232
+            "stars": 2233
           }
         },
         {
@@ -1606,7 +1606,7 @@
             "last_commit": "2026-05-31T03:23:22Z",
             "owner": "chhylp123",
             "repo": "hifiasm",
-            "stars": 801
+            "stars": 802
           }
         },
         {
@@ -1659,7 +1659,7 @@
             "last_commit": "2026-08-06T22:23:50Z",
             "owner": "igvteam",
             "repo": "igv",
-            "stars": 758
+            "stars": 757
           }
         },
         {
@@ -1919,7 +1919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:49:16.277Z",
+    "last_updated": "2026-08-15T16:20:33.933Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-Bioinformatics",
