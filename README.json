@@ -28,7 +28,7 @@
             "last_commit": "2026-07-27T04:53:31Z",
             "owner": "rust-bio",
             "repo": "rust-bio",
-            "stars": 1830
+            "stars": 1831
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-03T23:53:23Z",
             "owner": "wireservice",
             "repo": "csvkit",
-            "stars": 6409
+            "stars": 6408
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2023-09-09T21:23:36Z",
             "owner": "stephenturner",
             "repo": "oneliners",
-            "stars": 2024
+            "stars": 2025
           }
         },
         {
@@ -338,10 +338,10 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-08-16T09:19:26Z",
+            "last_commit": "2026-08-17T07:14:01Z",
             "owner": "nextflow-io",
             "repo": "nextflow",
-            "stars": 3465
+            "stars": 3466
           }
         },
         {
@@ -408,7 +408,7 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-08-16T12:55:36Z",
+            "last_commit": "2026-08-17T00:55:06Z",
             "owner": "ssadedin",
             "repo": "bpipe",
             "stars": 242
@@ -577,7 +577,7 @@
             "last_commit": "2026-07-08T01:12:47Z",
             "owner": "shenwei356",
             "repo": "seqkit",
-            "stars": 1588
+            "stars": 1589
           }
         },
         {
@@ -605,7 +605,7 @@
             "last_commit": "2026-08-12T02:59:28Z",
             "owner": "MultiQC",
             "repo": "MultiQC",
-            "stars": 1487
+            "stars": 1488
           }
         },
         {
@@ -776,7 +776,7 @@
             "last_commit": "2026-08-04T18:26:34Z",
             "owner": "bbuchfink",
             "repo": "diamond",
-            "stars": 1313
+            "stars": 1314
           }
         },
         {
@@ -900,7 +900,7 @@
             "last_commit": "2026-03-19T04:57:17Z",
             "owner": "google",
             "repo": "deepvariant",
-            "stars": 3781
+            "stars": 3782
           }
         },
         {
@@ -973,7 +973,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T15:13:01Z",
+            "last_commit": "2026-08-17T12:57:39Z",
             "owner": "dellytools",
             "repo": "delly",
             "stars": 528
@@ -1232,7 +1232,7 @@
             "last_commit": "2026-05-18T16:16:02Z",
             "owner": "NBISweden",
             "repo": "AGAT",
-            "stars": 583
+            "stars": 584
           }
         },
         {
@@ -1314,7 +1314,7 @@
             "last_commit": "2026-03-09T19:04:37Z",
             "owner": "pcingola",
             "repo": "SnpEff",
-            "stars": 311
+            "stars": 312
           }
         }
       ],
@@ -1384,7 +1384,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:27:04Z",
+            "last_commit": "2026-08-17T12:54:16Z",
             "owner": "scverse",
             "repo": "scanpy",
             "stars": 2542
@@ -1468,7 +1468,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:51:54Z",
+            "last_commit": "2026-08-17T16:08:55Z",
             "owner": "biodatageeks",
             "repo": "polars-bio",
             "stars": 190
@@ -1505,7 +1505,7 @@
             "last_commit": "2026-05-19T22:40:40Z",
             "owner": "lh3",
             "repo": "minimap2",
-            "stars": 2234
+            "stars": 2235
           }
         },
         {
@@ -1620,7 +1620,7 @@
             "last_commit": "2026-06-18T13:43:26Z",
             "owner": "marbl",
             "repo": "canu",
-            "stars": 706
+            "stars": 707
           }
         },
         {
@@ -1919,7 +1919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:21:06.992Z",
+    "last_updated": "2026-08-17T16:23:58.705Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-Bioinformatics",
