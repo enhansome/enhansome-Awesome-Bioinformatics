@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T14:29:56Z",
+            "last_commit": "2026-08-18T15:44:36Z",
             "owner": "biopython",
             "repo": "biopython",
             "stars": 5164
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-27T04:53:31Z",
             "owner": "rust-bio",
             "repo": "rust-bio",
-            "stars": 1831
+            "stars": 1832
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T12:54:30Z",
+            "last_commit": "2026-08-17T21:53:20Z",
             "owner": "seqan",
             "repo": "seqan3",
             "stars": 459
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-03T23:53:23Z",
             "owner": "wireservice",
             "repo": "csvkit",
-            "stars": 6408
+            "stars": 6409
           }
         },
         {
@@ -338,7 +338,7 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-08-17T07:14:01Z",
+            "last_commit": "2026-08-18T15:54:32Z",
             "owner": "nextflow-io",
             "repo": "nextflow",
             "stars": 3466
@@ -720,7 +720,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:32:27Z",
+            "last_commit": "2026-08-17T22:12:34Z",
             "owner": "hail-is",
             "repo": "hail",
             "stars": 1069
@@ -776,7 +776,7 @@
             "last_commit": "2026-08-04T18:26:34Z",
             "owner": "bbuchfink",
             "repo": "diamond",
-            "stars": 1314
+            "stars": 1315
           }
         },
         {
@@ -832,7 +832,7 @@
             "last_commit": "2026-08-07T08:14:02Z",
             "owner": "smarco",
             "repo": "WFA2-lib",
-            "stars": 223
+            "stars": 224
           }
         },
         {
@@ -900,7 +900,7 @@
             "last_commit": "2026-03-19T04:57:17Z",
             "owner": "google",
             "repo": "deepvariant",
-            "stars": 3782
+            "stars": 3784
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-05-02T14:08:41Z",
             "owner": "brentp",
             "repo": "mosdepth",
-            "stars": 869
+            "stars": 870
           }
         },
         {
@@ -1384,10 +1384,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:54:16Z",
+            "last_commit": "2026-08-18T14:06:11Z",
             "owner": "scverse",
             "repo": "scanpy",
-            "stars": 2542
+            "stars": 2544
           }
         },
         {
@@ -1468,7 +1468,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:08:55Z",
+            "last_commit": "2026-08-18T16:27:41Z",
             "owner": "biodatageeks",
             "repo": "polars-bio",
             "stars": 190
@@ -1505,7 +1505,7 @@
             "last_commit": "2026-05-19T22:40:40Z",
             "owner": "lh3",
             "repo": "minimap2",
-            "stars": 2235
+            "stars": 2237
           }
         },
         {
@@ -1592,7 +1592,7 @@
             "last_commit": "2026-04-03T20:56:14Z",
             "owner": "mikolmogorov",
             "repo": "Flye",
-            "stars": 948
+            "stars": 949
           }
         },
         {
@@ -1919,7 +1919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:23:58.705Z",
+    "last_updated": "2026-08-18T16:28:52.630Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-Bioinformatics",
