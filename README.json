@@ -364,7 +364,7 @@
                 "last_commit": "2026-08-19T11:29:10Z",
                 "owner": "nextflow-io",
                 "repo": "nextflow",
-                "stars": 3467
+                "stars": 3468
               }
             },
             {
@@ -633,7 +633,7 @@
                 "last_commit": "2025-06-01T19:25:29Z",
                 "owner": "lh3",
                 "repo": "seqtk",
-                "stars": 1553
+                "stars": 1554
               }
             },
             {
@@ -772,7 +772,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-18T19:08:03Z",
+                "last_commit": "2026-08-19T15:58:20Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1069
@@ -998,7 +998,7 @@
                 "last_commit": "2026-04-20T19:20:01Z",
                 "owner": "freebayes",
                 "repo": "freebayes",
-                "stars": 876
+                "stars": 877
               }
             },
             {
@@ -1045,7 +1045,7 @@
                     "last_commit": "2026-08-17T12:57:39Z",
                     "owner": "dellytools",
                     "repo": "delly",
-                    "stars": 529
+                    "stars": 530
                   }
                 },
                 {
@@ -1488,10 +1488,10 @@
                     "archived": false,
                     "id": 80342493,
                     "language": "Python",
-                    "last_commit": "2026-08-19T11:28:43Z",
+                    "last_commit": "2026-08-19T13:33:05Z",
                     "owner": "scverse",
                     "repo": "scanpy",
-                    "stars": 2544
+                    "stars": 2543
                   }
                 },
                 {
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:07:33.313Z",
+    "last_updated": "2026-08-19T16:28:29.960Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_id": 23372071,
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
