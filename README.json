@@ -12,10 +12,10 @@
             "archived": false,
             "id": 151541,
             "language": "Python",
-            "last_commit": "2026-08-19T00:49:53Z",
+            "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5164
+            "stars": 5166
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-17T21:53:20Z",
             "owner": "seqan",
             "repo": "seqan3",
-            "stars": 459
+            "stars": 460
           }
         },
         {
@@ -361,7 +361,7 @@
                 "archived": false,
                 "id": 9052236,
                 "language": "Groovy",
-                "last_commit": "2026-08-19T11:29:10Z",
+                "last_commit": "2026-08-20T12:57:38Z",
                 "owner": "nextflow-io",
                 "repo": "nextflow",
                 "stars": 3468
@@ -566,7 +566,7 @@
                 "last_commit": "2026-01-22T15:59:49Z",
                 "owner": "fmalmeida",
                 "repo": "bacannot",
-                "stars": 109
+                "stars": 110
               }
             },
             {
@@ -663,7 +663,7 @@
                 "last_commit": "2026-07-20T12:56:56Z",
                 "owner": "s-andrews",
                 "repo": "FastQC",
-                "stars": 612
+                "stars": 613
               }
             },
             {
@@ -693,7 +693,7 @@
                 "last_commit": "2022-03-04T15:29:26Z",
                 "owner": "agordon",
                 "repo": "fastx_toolkit",
-                "stars": 202
+                "stars": 201
               }
             },
             {
@@ -772,7 +772,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-19T15:58:20Z",
+                "last_commit": "2026-08-20T00:51:59Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1069
@@ -859,7 +859,7 @@
                     "last_commit": "2025-02-04T14:30:12Z",
                     "owner": "mummer4",
                     "repo": "mummer",
-                    "stars": 572
+                    "stars": 571
                   }
                 },
                 {
@@ -968,7 +968,7 @@
                 "last_commit": "2026-03-19T04:57:17Z",
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3784
+                "stars": 3785
               }
             },
             {
@@ -1439,7 +1439,7 @@
                     "last_commit": "2026-07-08T18:19:23Z",
                     "owner": "openvax",
                     "repo": "pyensembl",
-                    "stars": 406
+                    "stars": 407
                   }
                 },
                 {
@@ -1488,7 +1488,7 @@
                     "archived": false,
                     "id": 80342493,
                     "language": "Python",
-                    "last_commit": "2026-08-19T13:33:05Z",
+                    "last_commit": "2026-08-20T15:20:32Z",
                     "owner": "scverse",
                     "repo": "scanpy",
                     "stars": 2543
@@ -1578,7 +1578,7 @@
                     "archived": false,
                     "id": 894611596,
                     "language": "Python",
-                    "last_commit": "2026-08-18T17:52:25Z",
+                    "last_commit": "2026-08-20T16:27:41Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
                     "stars": 190
@@ -1623,7 +1623,7 @@
                 "last_commit": "2026-05-19T22:40:40Z",
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2237
+                "stars": 2236
               }
             },
             {
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:28:29.960Z",
+    "last_updated": "2026-08-20T16:32:21.526Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_id": 23372071,
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
