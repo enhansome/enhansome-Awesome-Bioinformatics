@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5166
+            "stars": 5165
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T04:53:31Z",
             "owner": "rust-bio",
             "repo": "rust-bio",
-            "stars": 1832
+            "stars": 1831
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2025-11-26T23:10:38Z",
             "owner": "biocaml",
             "repo": "biocaml",
-            "stars": 125
+            "stars": 123
           }
         }
       ],
@@ -186,7 +186,7 @@
                 "last_commit": "2023-09-09T21:23:36Z",
                 "owner": "stephenturner",
                 "repo": "oneliners",
-                "stars": 2025
+                "stars": 2024
               }
             },
             {
@@ -216,7 +216,7 @@
                 "last_commit": "2022-12-30T23:34:59Z",
                 "owner": "mattgodbolt",
                 "repo": "zindex",
-                "stars": 659
+                "stars": 658
               }
             },
             {
@@ -361,10 +361,10 @@
                 "archived": false,
                 "id": 9052236,
                 "language": "Groovy",
-                "last_commit": "2026-08-20T12:57:38Z",
+                "last_commit": "2026-08-21T15:00:11Z",
                 "owner": "nextflow-io",
                 "repo": "nextflow",
-                "stars": 3468
+                "stars": 3470
               }
             },
             {
@@ -424,7 +424,7 @@
                 "last_commit": "2026-07-17T14:45:30Z",
                 "owner": "insitro",
                 "repo": "redun",
-                "stars": 597
+                "stars": 598
               }
             },
             {
@@ -521,7 +521,7 @@
                 "last_commit": "2026-08-04T07:45:32Z",
                 "owner": "pditommaso",
                 "repo": "awesome-pipeline",
-                "stars": 6619
+                "stars": 6621
               }
             },
             {
@@ -615,7 +615,7 @@
                 "archived": false,
                 "id": 52715040,
                 "language": "Go",
-                "last_commit": "2026-07-08T01:12:47Z",
+                "last_commit": "2026-08-21T15:30:37Z",
                 "owner": "shenwei356",
                 "repo": "seqkit",
                 "stars": 1589
@@ -772,7 +772,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-20T00:51:59Z",
+                "last_commit": "2026-08-21T09:31:24Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1069
@@ -829,7 +829,7 @@
                     "last_commit": "2026-08-04T18:26:34Z",
                     "owner": "bbuchfink",
                     "repo": "diamond",
-                    "stars": 1315
+                    "stars": 1316
                   }
                 },
                 {
@@ -844,7 +844,7 @@
                     "last_commit": "2026-06-01T14:06:01Z",
                     "owner": "BenLangmead",
                     "repo": "bowtie2",
-                    "stars": 809
+                    "stars": 810
                   }
                 },
                 {
@@ -980,7 +980,7 @@
                 "archived": false,
                 "id": 11368595,
                 "language": "C",
-                "last_commit": "2026-07-30T11:21:48Z",
+                "last_commit": "2026-08-21T13:37:02Z",
                 "owner": "samtools",
                 "repo": "bcftools",
                 "stars": 884
@@ -998,7 +998,7 @@
                 "last_commit": "2026-04-20T19:20:01Z",
                 "owner": "freebayes",
                 "repo": "freebayes",
-                "stars": 877
+                "stars": 876
               }
             },
             {
@@ -1241,7 +1241,7 @@
                 "archived": false,
                 "id": 11368595,
                 "language": "C",
-                "last_commit": "2026-07-30T11:21:48Z",
+                "last_commit": "2026-08-21T13:37:02Z",
                 "owner": "samtools",
                 "repo": "bcftools",
                 "stars": 884
@@ -1488,7 +1488,7 @@
                     "archived": false,
                     "id": 80342493,
                     "language": "Python",
-                    "last_commit": "2026-08-20T15:20:32Z",
+                    "last_commit": "2026-08-21T15:14:43Z",
                     "owner": "scverse",
                     "repo": "scanpy",
                     "stars": 2543
@@ -1521,7 +1521,7 @@
                     "last_commit": "2026-03-19T19:02:24Z",
                     "owner": "mdshw5",
                     "repo": "pyfaidx",
-                    "stars": 489
+                    "stars": 488
                   }
                 },
                 {
@@ -1578,10 +1578,10 @@
                     "archived": false,
                     "id": 894611596,
                     "language": "Python",
-                    "last_commit": "2026-08-20T16:27:41Z",
+                    "last_commit": "2026-08-21T14:53:52Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
-                    "stars": 190
+                    "stars": 192
                   }
                 },
                 {
@@ -1821,7 +1821,7 @@
                 "last_commit": "2026-07-16T16:59:37Z",
                 "owner": "GMOD",
                 "repo": "jbrowse",
-                "stars": 474
+                "stars": 473
               }
             },
             {
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:32:21.526Z",
+    "last_updated": "2026-08-21T16:30:48.146Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_id": 23372071,
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
