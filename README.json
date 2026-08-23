@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5167
+            "stars": 5170
           }
         },
         {
@@ -361,10 +361,10 @@
                 "archived": false,
                 "id": 9052236,
                 "language": "Groovy",
-                "last_commit": "2026-08-21T21:05:35Z",
+                "last_commit": "2026-08-23T15:43:29Z",
                 "owner": "nextflow-io",
                 "repo": "nextflow",
-                "stars": 3470
+                "stars": 3471
               }
             },
             {
@@ -633,7 +633,7 @@
                 "last_commit": "2025-06-01T19:25:29Z",
                 "owner": "lh3",
                 "repo": "seqtk",
-                "stars": 1554
+                "stars": 1555
               }
             },
             {
@@ -772,7 +772,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:31:24Z",
+                "last_commit": "2026-08-23T15:32:52Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1069
@@ -968,7 +968,7 @@
                 "last_commit": "2026-03-19T04:57:17Z",
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3785
+                "stars": 3786
               }
             },
             {
@@ -1042,7 +1042,7 @@
                     "archived": false,
                     "id": 14419440,
                     "language": "C++",
-                    "last_commit": "2026-08-17T12:57:39Z",
+                    "last_commit": "2026-08-23T06:44:05Z",
                     "owner": "dellytools",
                     "repo": "delly",
                     "stars": 530
@@ -1491,7 +1491,7 @@
                     "last_commit": "2026-08-21T15:14:43Z",
                     "owner": "scverse",
                     "repo": "scanpy",
-                    "stars": 2544
+                    "stars": 2546
                   }
                 },
                 {
@@ -1578,7 +1578,7 @@
                     "archived": false,
                     "id": 894611596,
                     "language": "Python",
-                    "last_commit": "2026-08-21T14:53:52Z",
+                    "last_commit": "2026-08-23T09:11:52Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
                     "stars": 192
@@ -1623,7 +1623,7 @@
                 "last_commit": "2026-05-19T22:40:40Z",
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2236
+                "stars": 2237
               }
             },
             {
@@ -1690,7 +1690,7 @@
                 "last_commit": "2026-08-07T06:57:00Z",
                 "owner": "oschwengers",
                 "repo": "bakta",
-                "stars": 667
+                "stars": 668
               }
             }
           ],
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:20:16.140Z",
+    "last_updated": "2026-08-23T16:21:55.375Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_id": 23372071,
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
