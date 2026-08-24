@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5171
+            "stars": 5172
           }
         },
         {
@@ -383,7 +383,7 @@
                 "archived": false,
                 "id": 9052236,
                 "language": "Groovy",
-                "last_commit": "2026-08-24T04:49:21Z",
+                "last_commit": "2026-08-24T14:22:45Z",
                 "owner": "nextflow-io",
                 "repo": "nextflow",
                 "stars": 3472
@@ -1644,7 +1644,7 @@
                     "archived": false,
                     "id": 894611596,
                     "language": "Python",
-                    "last_commit": "2026-08-23T09:11:52Z",
+                    "last_commit": "2026-08-24T16:15:28Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
                     "stars": 193
@@ -2072,7 +2072,7 @@
                 "last_commit": "2024-04-08T00:22:09Z",
                 "owner": "ossu",
                 "repo": "bioinformatics",
-                "stars": 7084
+                "stars": 7082
               }
             }
           ],
@@ -2203,7 +2203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:21.028Z",
+    "last_updated": "2026-08-24T16:34:04.040Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_id": 23372071,
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
