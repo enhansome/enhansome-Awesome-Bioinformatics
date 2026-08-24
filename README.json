@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Biopython - Freely available tools for biological computing in Python, with included cookbook, packaging and thorough documentation. Part of the Open Bioinformatics Foundation",
-          "description": ". Contains the very useful Entrez package for API access to the NCBI databases. [ paper-2009 | web ]",
+          "title": "Biopython",
+          "description": "Freely available tools for biological computing in Python, with included cookbook, packaging and thorough documentation. Part of the Open Bioinformatics Foundation. Contains the very useful Entrez package for API access to the NCBI databases. [ paper-2009 | web ]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,13 +15,13 @@
             "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5170
+            "stars": 5171
           }
         },
         {
           "node_type": "item",
-          "title": "Rust-Bio - Rust implementations of algorithms and data structures useful for bioinformatics. [ paper-2016",
-          "description": "]",
+          "title": "Rust-Bio",
+          "description": "Rust implementations of algorithms and data structures useful for bioinformatics. [ paper-2016 ]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,13 +30,13 @@
             "last_commit": "2026-07-27T04:53:31Z",
             "owner": "rust-bio",
             "repo": "rust-bio",
-            "stars": 1831
+            "stars": 1832
           }
         },
         {
           "node_type": "item",
-          "title": "(Poly)merase - A Go library and command line utility for engineering organisms.",
-          "description": null,
+          "title": "(Poly)merase",
+          "description": "A Go library and command line utility for engineering organisms.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "Biojava - Java framework for processing biological data.",
-          "description": null,
+          "title": "Biojava",
+          "description": "Java framework for processing biological data.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "SeqAn - The modern C++ library for sequence analysis.",
-          "description": null,
+          "title": "SeqAn",
+          "description": "The modern C++ library for sequence analysis.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "Bioperl - International association of users & developers of open source Perl tools for bioinformatics, genomics and life sciences. [ paper-2002",
-          "description": "web ]",
+          "title": "Bioperl",
+          "description": "International association of users & developers of open source Perl tools for bioinformatics, genomics and life sciences. [ paper-2002 | web ]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "Biocaml - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.",
-          "description": null,
+          "title": "Biocaml",
+          "description": "Biocaml aims to be a high-performance user-friendly library for Bioinformatics.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -118,8 +118,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "SRA-Explorer - Easily get SRA download links and other information. [ web",
-              "description": "]",
+              "title": "SRA-Explorer",
+              "description": "Easily get SRA download links and other information. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -128,13 +128,13 @@
                 "last_commit": "2025-07-17T16:55:05Z",
                 "owner": "ewels",
                 "repo": "sra-explorer",
-                "stars": 224
+                "stars": 225
               }
             },
             {
               "node_type": "item",
-              "title": "GGD - Go Get Data; A command line interface for obtaining genomic data. [ web",
-              "description": "]",
+              "title": "GGD",
+              "description": "Go Get Data; A command line interface for obtaining genomic data. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -143,13 +143,35 @@
                 "last_commit": "2022-10-16T09:51:19Z",
                 "owner": "gogetdata",
                 "repo": "ggd-cli",
-                "stars": 42
+                "stars": 43
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Downloading"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Genozip",
+              "description": "A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). [ web | paper-2021 ]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228133171,
+                "language": "C",
+                "last_commit": "2026-08-16T14:56:01Z",
+                "owner": "divonlan",
+                "repo": "genozip",
+                "stars": 188
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compressing"
         }
       ],
       "title": "Data Tools"
@@ -161,8 +183,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "CSVKit - Utilities for working with CSV/Tab-delimited files. [ web",
-              "description": "]",
+              "title": "CSVKit",
+              "description": "Utilities for working with CSV/Tab-delimited files. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -176,8 +198,8 @@
             },
             {
               "node_type": "item",
-              "title": "Bioinformatics One Liners - Git repo of useful single line commands.",
-              "description": null,
+              "title": "Bioinformatics One Liners",
+              "description": "Git repo of useful single line commands.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -186,13 +208,13 @@
                 "last_commit": "2023-09-09T21:23:36Z",
                 "owner": "stephenturner",
                 "repo": "oneliners",
-                "stars": 2025
+                "stars": 2026
               }
             },
             {
               "node_type": "item",
-              "title": "csvtk - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit. [ web",
-              "description": "]",
+              "title": "csvtk",
+              "description": "Another cross-platform, efficient, practical and pretty CSV/TSV toolkit. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -206,8 +228,8 @@
             },
             {
               "node_type": "item",
-              "title": "zindex - Create an index on a compressed text file.",
-              "description": null,
+              "title": "zindex",
+              "description": "Create an index on a compressed text file.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,8 +243,8 @@
             },
             {
               "node_type": "item",
-              "title": "BioNode - Modular and universal bioinformatics, Bionode provides pipeable UNIX command line tools and JavaScript APIs for bioinformatics analysis workflows. [ web",
-              "description": "]",
+              "title": "BioNode",
+              "description": "Modular and universal bioinformatics, Bionode provides pipeable UNIX command line tools and JavaScript APIs for bioinformatics analysis workflows. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -236,8 +258,8 @@
             },
             {
               "node_type": "item",
-              "title": "bioSyntax - Syntax Highlighting for Computational Biology file formats (SAM, VCF, GTF, FASTA, PDB, etc...) in vim/less/gedit/sublime. [ paper-2018",
-              "description": "web ]",
+              "title": "bioSyntax",
+              "description": "Syntax Highlighting for Computational Biology file formats (SAM, VCF, GTF, FASTA, PDB, etc...) in vim/less/gedit/sublime. [ paper-2018 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -251,8 +273,8 @@
             },
             {
               "node_type": "item",
-              "title": "tabix - Table file index. [ paper-2011",
-              "description": "]",
+              "title": "tabix",
+              "description": "Table file index. [ paper-2011 ]",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -266,8 +288,8 @@
             },
             {
               "node_type": "item",
-              "title": "grabix - A wee tool for random access into BGZF files.",
-              "description": null,
+              "title": "grabix",
+              "description": "A wee tool for random access into BGZF files.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -281,8 +303,8 @@
             },
             {
               "node_type": "item",
-              "title": "grepq - Fast FASTQ filtering by matching reads against one or more regex patterns.",
-              "description": null,
+              "title": "grepq",
+              "description": "Fast FASTQ filtering by matching reads against one or more regex patterns.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -296,8 +318,8 @@
             },
             {
               "node_type": "item",
-              "title": "gsort - Sort genomic files according to a specified order.",
-              "description": null,
+              "title": "gsort",
+              "description": "Sort genomic files according to a specified order.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -311,8 +333,8 @@
             },
             {
               "node_type": "item",
-              "title": "easy_qsub - Easily submitting PBS jobs with script template. Multiple input files supported.",
-              "description": null,
+              "title": "easy_qsub",
+              "description": "Easily submitting PBS jobs with script template. Multiple input files supported.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -326,8 +348,8 @@
             },
             {
               "node_type": "item",
-              "title": "wormtable - Write-once-read-many table for large datasets.",
-              "description": null,
+              "title": "wormtable",
+              "description": "Write-once-read-many table for large datasets.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -354,23 +376,23 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Nextflow (recommended) - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner. [ paper-2018",
-              "description": "web ]",
+              "title": "Nextflow (recommended)",
+              "description": "A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner. [ paper-2018 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 9052236,
                 "language": "Groovy",
-                "last_commit": "2026-08-23T15:43:29Z",
+                "last_commit": "2026-08-24T04:49:21Z",
                 "owner": "nextflow-io",
                 "repo": "nextflow",
-                "stars": 3471
+                "stars": 3472
               }
             },
             {
               "node_type": "item",
-              "title": "Common Workflow Language - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments. [ web",
-              "description": "]",
+              "title": "Common Workflow Language",
+              "description": "a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -384,8 +406,8 @@
             },
             {
               "node_type": "item",
-              "title": "SciPipe - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output [ paper-2019",
-              "description": "web ]",
+              "title": "SciPipe",
+              "description": "Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output [ paper-2019 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,8 +421,8 @@
             },
             {
               "node_type": "item",
-              "title": "Cromwell - A Workflow Management System geared towards scientific workflows. [ web",
-              "description": "]",
+              "title": "Cromwell",
+              "description": "A Workflow Management System geared towards scientific workflows. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -414,8 +436,8 @@
             },
             {
               "node_type": "item",
-              "title": "redun - A python-based workflow manager.",
-              "description": null,
+              "title": "redun",
+              "description": "A python-based workflow manager.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -429,8 +451,8 @@
             },
             {
               "node_type": "item",
-              "title": "Bpipe - A small language for defining pipeline stages and linking them together to make pipelines. [ web",
-              "description": "]",
+              "title": "Bpipe",
+              "description": "A small language for defining pipeline stages and linking them together to make pipelines. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -444,8 +466,8 @@
             },
             {
               "node_type": "item",
-              "title": "Ruffus - Computation Pipeline library for python widely used in science and bioinformatics. [ paper-2010",
-              "description": "web ]",
+              "title": "Ruffus",
+              "description": "Computation Pipeline library for python widely used in science and bioinformatics. [ paper-2010 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -459,8 +481,8 @@
             },
             {
               "node_type": "item",
-              "title": "BigDataScript - A cross-system scripting language for working with big data pipelines in computer systems of different sizes and capabilities. [ paper-2014",
-              "description": "web ]",
+              "title": "BigDataScript",
+              "description": "A cross-system scripting language for working with big data pipelines in computer systems of different sizes and capabilities. [ paper-2014 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -474,8 +496,8 @@
             },
             {
               "node_type": "item",
-              "title": "SeqWare - Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments. [ paper-2010",
-              "description": "web ]",
+              "title": "SeqWare",
+              "description": "Hadoop Oozie-based workflow system focused on genomics data analysis in cloud environments. [ paper-2010 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -489,8 +511,8 @@
             },
             {
               "node_type": "item",
-              "title": "Workflow Descriptor Language - Workflow standard developed by the Broad. [ web",
-              "description": "]",
+              "title": "Workflow Descriptor Language",
+              "description": "Workflow standard developed by the Broad. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -511,8 +533,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Awesome-Pipeline - A list of pipeline resources.",
-              "description": null,
+              "title": "Awesome-Pipeline",
+              "description": "A list of pipeline resources.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -521,13 +543,13 @@
                 "last_commit": "2026-08-04T07:45:32Z",
                 "owner": "pditommaso",
                 "repo": "awesome-pipeline",
-                "stars": 6621
+                "stars": 6623
               }
             },
             {
               "node_type": "item",
-              "title": "bcbio-nextgen - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ web",
-              "description": "]",
+              "title": "bcbio-nextgen",
+              "description": "Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -541,8 +563,8 @@
             },
             {
               "node_type": "item",
-              "title": "Bactopia - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. [ web",
-              "description": "]",
+              "title": "Bactopia",
+              "description": "A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -556,8 +578,8 @@
             },
             {
               "node_type": "item",
-              "title": "Bacannot - A generic but comprehensive bacterial annotation pipeline, built with Nextflow, with nice graphical options for investigating results. [ web",
-              "description": "]",
+              "title": "Bacannot",
+              "description": "A generic but comprehensive bacterial annotation pipeline, built with Nextflow, with nice graphical options for investigating results. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -571,8 +593,8 @@
             },
             {
               "node_type": "item",
-              "title": "ngs-preprocess - A pipeline for preprocessing short and long sequencing reads, built with Nextflow. [ web",
-              "description": "]",
+              "title": "ngs-preprocess",
+              "description": "A pipeline for preprocessing short and long sequencing reads, built with Nextflow. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -586,8 +608,8 @@
             },
             {
               "node_type": "item",
-              "title": "R-Peridot - Customizable pipeline for differential expression analysis with an intuitive GUI. [ web",
-              "description": "]",
+              "title": "R-Peridot",
+              "description": "Customizable pipeline for differential expression analysis with an intuitive GUI. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,8 +630,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "SeqKit - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. [ paper-2016",
-              "description": "web ]",
+              "title": "SeqKit",
+              "description": "A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. [ paper-2016 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -618,13 +640,13 @@
                 "last_commit": "2026-08-21T15:30:37Z",
                 "owner": "shenwei356",
                 "repo": "seqkit",
-                "stars": 1589
+                "stars": 1590
               }
             },
             {
               "node_type": "item",
-              "title": "Seqtk - Toolkit for processing sequences in FASTA/Q formats.",
-              "description": null,
+              "title": "Seqtk",
+              "description": "Toolkit for processing sequences in FASTA/Q formats.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -633,13 +655,13 @@
                 "last_commit": "2025-06-01T19:25:29Z",
                 "owner": "lh3",
                 "repo": "seqtk",
-                "stars": 1555
+                "stars": 1556
               }
             },
             {
               "node_type": "item",
-              "title": "MultiQC - Aggregate results from bioinformatics analyses across many samples into a single report. [ paper-2016",
-              "description": "web ]",
+              "title": "MultiQC",
+              "description": "Aggregate results from bioinformatics analyses across many samples into a single report. [ paper-2016 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -648,13 +670,13 @@
                 "last_commit": "2026-08-12T02:59:28Z",
                 "owner": "MultiQC",
                 "repo": "MultiQC",
-                "stars": 1488
+                "stars": 1489
               }
             },
             {
               "node_type": "item",
-              "title": "FastQC - A quality control tool for high throughput sequence data. [ web",
-              "description": "]",
+              "title": "FastQC",
+              "description": "A quality control tool for high throughput sequence data. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -663,13 +685,13 @@
                 "last_commit": "2026-07-20T12:56:56Z",
                 "owner": "s-andrews",
                 "repo": "FastQC",
-                "stars": 613
+                "stars": 614
               }
             },
             {
               "node_type": "item",
-              "title": "AfterQC - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. [ paper-2017",
-              "description": "]",
+              "title": "AfterQC",
+              "description": "Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. [ paper-2017 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -678,13 +700,13 @@
                 "last_commit": "2020-05-14T07:15:54Z",
                 "owner": "OpenGene",
                 "repo": "AfterQC",
-                "stars": 213
+                "stars": 214
               }
             },
             {
               "node_type": "item",
-              "title": "Fastx Tookit - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities. [ web",
-              "description": "]",
+              "title": "Fastx Tookit",
+              "description": "FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -693,13 +715,13 @@
                 "last_commit": "2022-03-04T15:29:26Z",
                 "owner": "agordon",
                 "repo": "fastx_toolkit",
-                "stars": 201
+                "stars": 202
               }
             },
             {
               "node_type": "item",
-              "title": "SeqFu - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. [ paper-2021",
-              "description": "web ]",
+              "title": "SeqFu",
+              "description": "Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. [ paper-2021 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -708,13 +730,13 @@
                 "last_commit": "2026-08-15T20:48:00Z",
                 "owner": "telatin",
                 "repo": "seqfu2",
-                "stars": 130
+                "stars": 131
               }
             },
             {
               "node_type": "item",
-              "title": "seqmagick - file format conversion in Biopython in a convenient way. [ web",
-              "description": "]",
+              "title": "seqmagick",
+              "description": "file format conversion in Biopython in a convenient way. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -723,13 +745,13 @@
                 "last_commit": "2024-03-18T15:45:02Z",
                 "owner": "fhcrc",
                 "repo": "seqmagick",
-                "stars": 120
+                "stars": 121
               }
             },
             {
               "node_type": "item",
-              "title": "Fastqp - FASTQ and SAM quality control using Python.",
-              "description": null,
+              "title": "Fastqp",
+              "description": "FASTQ and SAM quality control using Python.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -738,13 +760,13 @@
                 "last_commit": "2026-02-24T07:19:05Z",
                 "owner": "mdshw5",
                 "repo": "fastqp",
-                "stars": 109
+                "stars": 110
               }
             },
             {
               "node_type": "item",
-              "title": "smof - UNIX-style FASTA manipulation tools.",
-              "description": null,
+              "title": "smof",
+              "description": "UNIX-style FASTA manipulation tools.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -753,7 +775,7 @@
                 "last_commit": "2024-08-01T03:49:19Z",
                 "owner": "incertae-sedis",
                 "repo": "smof",
-                "stars": 18
+                "stars": 19
               }
             }
           ],
@@ -765,14 +787,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Hail - Scalable genomic analysis.",
-              "description": null,
+              "title": "Hail",
+              "description": "Scalable genomic analysis.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:32:52Z",
+                "last_commit": "2026-08-24T13:51:29Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1069
@@ -780,8 +802,8 @@
             },
             {
               "node_type": "item",
-              "title": "GLNexus - Scalable gVCF merging and joint variant calling for population sequencing projects. [ paper-2018",
-              "description": "]",
+              "title": "GLNexus",
+              "description": "Scalable gVCF merging and joint variant calling for population sequencing projects. [ paper-2018 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -804,8 +826,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "BWA - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.",
-                  "description": null,
+                  "title": "BWA",
+                  "description": "Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -814,13 +836,13 @@
                     "last_commit": "2026-08-07T13:43:25Z",
                     "owner": "lh3",
                     "repo": "bwa",
-                    "stars": 1764
+                    "stars": 1765
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "DIAMOND - An ultrafast protein aligner for and like searches. [ paper-2021",
-                  "description": "]",
+                  "title": "DIAMOND",
+                  "description": "An ultrafast protein aligner for and like searches. [ paper-2021 ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -834,8 +856,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Bowtie 2 - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. [ paper-2012",
-                  "description": "web ]",
+                  "title": "Bowtie 2",
+                  "description": "An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. [ paper-2012 | web ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -844,13 +866,13 @@
                     "last_commit": "2026-06-01T14:06:01Z",
                     "owner": "BenLangmead",
                     "repo": "bowtie2",
-                    "stars": 810
+                    "stars": 811
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "MUMmer - A system for rapidly aligning entire genomes, whether in complete or draft form. [ paper-1999",
-                  "description": "paper-2002 | paper-2004 | web ]",
+                  "title": "MUMmer",
+                  "description": "A system for rapidly aligning entire genomes, whether in complete or draft form. [ paper-1999 | paper-2002 | paper-2004 | web ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -859,13 +881,13 @@
                     "last_commit": "2025-02-04T14:30:12Z",
                     "owner": "mummer4",
                     "repo": "mummer",
-                    "stars": 571
+                    "stars": 572
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "Parasail - SIMD C library for global, semi-global, and local pairwise sequence alignments [ paper-2016",
-                  "description": "]",
+                  "title": "Parasail",
+                  "description": "SIMD C library for global, semi-global, and local pairwise sequence alignments [ paper-2016 ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -874,13 +896,13 @@
                     "last_commit": "2025-08-27T16:13:53Z",
                     "owner": "jeffdaily",
                     "repo": "parasail",
-                    "stars": 286
+                    "stars": 287
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "WFA - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment [ paper-2020",
-                  "description": "]",
+                  "title": "WFA",
+                  "description": "the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment [ paper-2020 ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -889,13 +911,13 @@
                     "last_commit": "2026-08-07T08:14:02Z",
                     "owner": "smarco",
                     "repo": "WFA2-lib",
-                    "stars": 224
+                    "stars": 225
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "BWA-FastAlign - BWA-MEM drop-in replacement: 2-3x faster, 2-5x cheaper, 100% identical output on standard CPUs. [ paper-2026",
-                  "description": "]",
+                  "title": "BWA-FastAlign",
+                  "description": "BWA-MEM drop-in replacement: 2-3x faster, 2-5x cheaper, 100% identical output on standard CPUs. [ paper-2026 ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -904,13 +926,57 @@
                     "last_commit": "2026-02-22T14:29:09Z",
                     "owner": "zzhofict",
                     "repo": "BWA-FastAlign",
-                    "stars": 27
+                    "stars": 28
                   }
                 }
               ],
               "description": null,
               "node_type": "group",
               "title": "Pairwise"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "POA",
+                  "description": "Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences. [ paper-2002 ]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34757278,
+                    "language": "Python",
+                    "last_commit": "2024-06-20T14:00:09Z",
+                    "owner": "ljdursi",
+                    "repo": "poapy",
+                    "stars": 77
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Multiple Sequence Alignment"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MMseqs2",
+                  "description": "Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. [ paper-2017 | paper-2018 ]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63755587,
+                    "language": "C",
+                    "last_commit": "2026-08-24T12:05:35Z",
+                    "owner": "soedinglab",
+                    "repo": "MMseqs2",
+                    "stars": 2131
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Clustering"
             }
           ],
           "description": null,
@@ -921,8 +987,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "RSEM - A software package for estimating gene and isoform expression levels from RNA-Seq data. [ paper-2011",
-              "description": "web ]",
+              "title": "RSEM",
+              "description": "A software package for estimating gene and isoform expression levels from RNA-Seq data. [ paper-2011 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,13 +997,13 @@
                 "last_commit": "2026-08-07T18:43:56Z",
                 "owner": "deweylab",
                 "repo": "RSEM",
-                "stars": 474
+                "stars": 475
               }
             },
             {
               "node_type": "item",
-              "title": "Cufflinks - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. [ paper-2010",
-              "description": "]",
+              "title": "Cufflinks",
+              "description": "Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. [ paper-2010 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -946,7 +1012,7 @@
                 "last_commit": "2020-03-31T06:34:50Z",
                 "owner": "cole-trapnell-lab",
                 "repo": "cufflinks",
-                "stars": 323
+                "stars": 324
               }
             }
           ],
@@ -958,8 +1024,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "DeepVariant - Deep learning-based variant caller [ paper-2018",
-              "description": "]",
+              "title": "DeepVariant",
+              "description": "Deep learning-based variant caller [ paper-2018 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -968,13 +1034,13 @@
                 "last_commit": "2026-03-19T04:57:17Z",
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3786
+                "stars": 3787
               }
             },
             {
               "node_type": "item",
-              "title": "bcftools - samtools/bcftools are a suite of tools for manipulating NGS data and can be used to call variants. [ paper-2009",
-              "description": "web ]",
+              "title": "bcftools",
+              "description": "samtools/bcftools are a suite of tools for manipulating NGS data and can be used to call variants. [ paper-2009 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -983,13 +1049,13 @@
                 "last_commit": "2026-08-21T13:37:02Z",
                 "owner": "samtools",
                 "repo": "bcftools",
-                "stars": 885
+                "stars": 886
               }
             },
             {
               "node_type": "item",
-              "title": "freebayes - Bayesian haplotype-based polymorphism discovery and genotyping. [ web",
-              "description": "]",
+              "title": "freebayes",
+              "description": "Bayesian haplotype-based polymorphism discovery and genotyping. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -998,13 +1064,13 @@
                 "last_commit": "2026-04-20T19:20:01Z",
                 "owner": "freebayes",
                 "repo": "freebayes",
-                "stars": 876
+                "stars": 877
               }
             },
             {
               "node_type": "item",
-              "title": "Octopus - A polymorphic bayesian genotyping model with wide applicability. [ paper-2021",
-              "description": "]",
+              "title": "Octopus",
+              "description": "A polymorphic bayesian genotyping model with wide applicability. [ paper-2021 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1013,13 +1079,13 @@
                 "last_commit": "2026-02-13T16:37:59Z",
                 "owner": "luntergroup",
                 "repo": "octopus",
-                "stars": 325
+                "stars": 326
               }
             },
             {
               "node_type": "item",
-              "title": "GATK - Variant Discovery in High-Throughput Sequencing Data. [ web",
-              "description": "]",
+              "title": "GATK",
+              "description": "Variant Discovery in High-Throughput Sequencing Data. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1035,23 +1101,23 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Delly - Structural variant discovery by integrated paired-end and split-read analysis. [ paper-2012",
-                  "description": "]",
+                  "title": "Delly",
+                  "description": "Structural variant discovery by integrated paired-end and split-read analysis. [ paper-2012 ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 14419440,
                     "language": "C++",
-                    "last_commit": "2026-08-23T06:44:05Z",
+                    "last_commit": "2026-08-24T13:55:58Z",
                     "owner": "dellytools",
                     "repo": "delly",
-                    "stars": 530
+                    "stars": 531
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "manta - Structural variant and indel caller for mapped sequencing data. [ paper-2015",
-                  "description": "]",
+                  "title": "manta",
+                  "description": "Structural variant and indel caller for mapped sequencing data. [ paper-2015 ]",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1065,8 +1131,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "lumpy - lumpy: a general probabilistic framework for structural variant discovery. [ paper-2014",
-                  "description": "]",
+                  "title": "lumpy",
+                  "description": "lumpy: a general probabilistic framework for structural variant discovery. [ paper-2014 ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1075,13 +1141,13 @@
                     "last_commit": "2026-02-22T01:38:21Z",
                     "owner": "arq5x",
                     "repo": "lumpy-sv",
-                    "stars": 345
+                    "stars": 346
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "gridss - GRIDSS: the Genomic Rearrangement IDentification Software Suite. [ paper-2017",
-                  "description": "]",
+                  "title": "gridss",
+                  "description": "GRIDSS: the Genomic Rearrangement IDentification Software Suite. [ paper-2017 ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1090,13 +1156,13 @@
                     "last_commit": "2025-05-21T07:01:34Z",
                     "owner": "PapenfussLab",
                     "repo": "gridss",
-                    "stars": 284
+                    "stars": 285
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "smoove - structural variant calling and genotyping with existing tools, but,smoothly.",
-                  "description": null,
+                  "title": "smoove",
+                  "description": "structural variant calling and genotyping with existing tools, but,smoothly.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1105,7 +1171,7 @@
                     "last_commit": "2024-06-17T21:55:16Z",
                     "owner": "brentp",
                     "repo": "smoove",
-                    "stars": 266
+                    "stars": 267
                   }
                 }
               ],
@@ -1122,8 +1188,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "mosdepth - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing. [ paper-2017",
-              "description": "]",
+              "title": "mosdepth",
+              "description": "fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing. [ paper-2017 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1132,13 +1198,13 @@
                 "last_commit": "2026-05-02T14:08:41Z",
                 "owner": "brentp",
                 "repo": "mosdepth",
-                "stars": 870
+                "stars": 871
               }
             },
             {
               "node_type": "item",
-              "title": "Bamtools - Collection of tools for working with BAM files. [ paper-2011",
-              "description": "]",
+              "title": "Bamtools",
+              "description": "Collection of tools for working with BAM files. [ paper-2011 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1147,13 +1213,13 @@
                 "last_commit": "2025-05-18T08:22:16Z",
                 "owner": "pezmaster31",
                 "repo": "bamtools",
-                "stars": 432
+                "stars": 433
               }
             },
             {
               "node_type": "item",
-              "title": "Somalier - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. [ paper-2020",
-              "description": "]",
+              "title": "Somalier",
+              "description": "Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. [ paper-2020 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1162,13 +1228,13 @@
                 "last_commit": "2026-07-20T21:45:01Z",
                 "owner": "brentp",
                 "repo": "somalier",
-                "stars": 332
+                "stars": 333
               }
             },
             {
               "node_type": "item",
-              "title": "Telseq - Telseq is a tool for estimating telomere length from whole genome sequence data. [ paper-2014",
-              "description": "]",
+              "title": "Telseq",
+              "description": "Telseq is a tool for estimating telomere length from whole genome sequence data. [ paper-2014 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1177,13 +1243,13 @@
                 "last_commit": "2018-10-24T08:34:42Z",
                 "owner": "zd1",
                 "repo": "telseq",
-                "stars": 77
+                "stars": 78
               }
             },
             {
               "node_type": "item",
-              "title": "SAMstat - Displaying sequence statistics for next-generation sequencing. [ paper-2010",
-              "description": "web ]",
+              "title": "SAMstat",
+              "description": "Displaying sequence statistics for next-generation sequencing. [ paper-2010 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1192,13 +1258,13 @@
                 "last_commit": "2023-08-03T07:35:17Z",
                 "owner": "TimoLassmann",
                 "repo": "samstat",
-                "stars": 24
+                "stars": 25
               }
             },
             {
               "node_type": "item",
-              "title": "mergesam - Automate common SAM & BAM conversions.",
-              "description": null,
+              "title": "mergesam",
+              "description": "Automate common SAM & BAM conversions.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1207,13 +1273,13 @@
                 "last_commit": "2013-04-25T18:29:58Z",
                 "owner": "DarwinAwardWinner",
                 "repo": "mergesam",
-                "stars": 7
+                "stars": 8
               }
             },
             {
               "node_type": "item",
-              "title": "bam toolbox MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.",
-              "description": null,
+              "title": "bam toolbox",
+              "description": "MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1222,7 +1288,7 @@
                 "last_commit": "2024-07-30T17:47:33Z",
                 "owner": "AndersenLab",
                 "repo": "bam-toolbox",
-                "stars": 1
+                "stars": 2
               }
             }
           ],
@@ -1234,8 +1300,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "bcftools - Set of tools for manipulating VCF files. [ paper-2016",
-              "description": "paper-2017 | web ]",
+              "title": "bcftools",
+              "description": "Set of tools for manipulating VCF files. [ paper-2016 | paper-2017 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1244,13 +1310,13 @@
                 "last_commit": "2026-08-21T13:37:02Z",
                 "owner": "samtools",
                 "repo": "bcftools",
-                "stars": 885
+                "stars": 886
               }
             },
             {
               "node_type": "item",
-              "title": "vcflib - A C++ library for parsing and manipulating VCF files.",
-              "description": null,
+              "title": "vcflib",
+              "description": "A C++ library for parsing and manipulating VCF files.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1259,13 +1325,13 @@
                 "last_commit": "2026-03-20T10:33:33Z",
                 "owner": "vcflib",
                 "repo": "vcflib",
-                "stars": 683
+                "stars": 684
               }
             },
             {
               "node_type": "item",
-              "title": "vcftools - VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst). [ paper-2011",
-              "description": "]",
+              "title": "vcftools",
+              "description": "VCF manipulation and statistics (e.g. linkage disequilibrium, allele frequency, Fst). [ paper-2011 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1279,8 +1345,8 @@
             },
             {
               "node_type": "item",
-              "title": "vcfanno - Annotate a VCF with other VCFs/BEDs/tabixed files. [ paper-2016",
-              "description": "]",
+              "title": "vcfanno",
+              "description": "Annotate a VCF with other VCFs/BEDs/tabixed files. [ paper-2016 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1301,8 +1367,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Bedtools2 - A Swiss Army knife for genome arithmetic. [ paper-2010",
-              "description": "paper-2014 | web ]",
+              "title": "Bedtools2",
+              "description": "A Swiss Army knife for genome arithmetic. [ paper-2010 | paper-2014 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1316,8 +1382,8 @@
             },
             {
               "node_type": "item",
-              "title": "AGAT - Suite of tools to handle gene annotations in any GTF/GFF format. [ web",
-              "description": "]",
+              "title": "AGAT",
+              "description": "Suite of tools to handle gene annotations in any GTF/GFF format. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1326,13 +1392,13 @@
                 "last_commit": "2026-05-18T16:16:02Z",
                 "owner": "NBISweden",
                 "repo": "AGAT",
-                "stars": 584
+                "stars": 585
               }
             },
             {
               "node_type": "item",
-              "title": "gffutils - GFF and GTF file manipulation and interconversion. [ web",
-              "description": "]",
+              "title": "gffutils",
+              "description": "GFF and GTF file manipulation and interconversion. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1353,8 +1419,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "wgsim - Comes with samtools! - Reads simulator. [ web",
-              "description": "]",
+              "title": "wgsim",
+              "description": "Comes with samtools! - Reads simulator. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1368,8 +1434,8 @@
             },
             {
               "node_type": "item",
-              "title": "Bam Surgeon - Tools for adding mutations to existing files, used for testing mutation callers. [ web",
-              "description": "]",
+              "title": "Bam Surgeon",
+              "description": "Tools for adding mutations to existing files, used for testing mutation callers. [ web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1390,8 +1456,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "SIFT - Predicts whether an amino acid substitution affects protein function. [ paper-2003",
-              "description": "web ]",
+              "title": "SIFT",
+              "description": "Predicts whether an amino acid substitution affects protein function. [ paper-2003 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1400,13 +1466,13 @@
                 "last_commit": "2024-02-14T21:38:23Z",
                 "owner": "teamdfir",
                 "repo": "sift",
-                "stars": 550
+                "stars": 551
               }
             },
             {
               "node_type": "item",
-              "title": "SnpEff - Genetic variant annotation and effect prediction toolbox. [ paper-2012",
-              "description": "web ]",
+              "title": "SnpEff",
+              "description": "Genetic variant annotation and effect prediction toolbox. [ paper-2012 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1429,8 +1495,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "pyensembl - Pythonic Access to the Ensembl database. [ web",
-                  "description": "]",
+                  "title": "pyensembl",
+                  "description": "Pythonic Access to the Ensembl database. [ web ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1444,8 +1510,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "bioservices - Access to Biological Web Services from Python. [ paper-2013",
-                  "description": "web ]",
+                  "title": "bioservices",
+                  "description": "Access to Biological Web Services from Python. [ paper-2013 web ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1459,8 +1525,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "cruzdb - Pythonic access to the UCSC Genome database. [ paper-2013",
-                  "description": "]",
+                  "title": "cruzdb",
+                  "description": "Pythonic access to the UCSC Genome database. [ paper-2013 ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1481,8 +1547,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Scanpy - Scalable toolkit for analyzing single-cell gene expression data, including preprocessing, visualization, clustering, and trajectory inference. [ paper-2018",
-                  "description": "web ]",
+                  "title": "Scanpy",
+                  "description": "Scalable toolkit for analyzing single-cell gene expression data, including preprocessing, visualization, clustering, and trajectory inference. [ paper-2018 | web ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1491,13 +1557,13 @@
                     "last_commit": "2026-08-21T15:14:43Z",
                     "owner": "scverse",
                     "repo": "scanpy",
-                    "stars": 2546
+                    "stars": 2548
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "pysam - Python wrapper for samtools",
-                  "description": ". [ web ]",
+                  "title": "pysam",
+                  "description": "Python wrapper for samtools. [ web ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1511,8 +1577,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "pyfaidx - Pythonic access to FASTA files.",
-                  "description": null,
+                  "title": "pyfaidx",
+                  "description": "Pythonic access to FASTA files.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1526,8 +1592,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "cyvcf2 - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. [ paper-2017",
-                  "description": "web ]",
+                  "title": "cyvcf2",
+                  "description": "Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. [ paper-2017 | web ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1541,8 +1607,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "pyVCF - A VCF Parser for Python. [ web",
-                  "description": "]",
+                  "title": "pyVCF",
+                  "description": "A VCF Parser for Python. [ web ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1556,8 +1622,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "pyBedTools - Python wrapper for bedtools",
-                  "description": ". [ paper-2011 | web ]",
+                  "title": "pyBedTools",
+                  "description": "Python wrapper for bedtools. [ paper-2011 | web ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1571,8 +1637,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "polars-bio - Python library for blazing-fast genomic interval operations and genomic file formats I/O on Polars DataFrames [ paper-2025",
-                  "description": "[ web ] ]",
+                  "title": "polars-bio",
+                  "description": "Python library for blazing-fast genomic interval operations and genomic file formats I/O on Polars DataFrames [ paper-2025 | [ web ] ]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1581,13 +1647,13 @@
                     "last_commit": "2026-08-23T09:11:52Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
-                    "stars": 192
+                    "stars": 193
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "cyvcf - A port of pyVCF",
-                  "description": "using Cython for speed.",
+                  "title": "cyvcf",
+                  "description": "A port of pyVCF using Cython for speed.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1613,8 +1679,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Minimap2 - Minimap2 is an pairwise aligner for genomic and spliced nucleotide sequences. It can perform the assembly-to-assembly alignment, and works with gzip'd FASTQ, FASTA formats. It also finds overlaps between long-reads.",
-              "description": null,
+              "title": "Minimap2",
+              "description": "Minimap2 is an pairwise aligner for genomic and spliced nucleotide sequences. It can perform the assembly-to-assembly alignment, and works with gzip'd FASTQ, FASTA formats. It also finds overlaps between long-reads.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1623,13 +1689,13 @@
                 "last_commit": "2026-05-19T22:40:40Z",
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2237
+                "stars": 2240
               }
             },
             {
               "node_type": "item",
-              "title": "SPAdes - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.",
-              "description": null,
+              "title": "SPAdes",
+              "description": "SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1638,13 +1704,13 @@
                 "last_commit": "2026-06-16T10:47:36Z",
                 "owner": "ablab",
                 "repo": "spades",
-                "stars": 955
+                "stars": 954
               }
             },
             {
               "node_type": "item",
-              "title": "SKESA - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.",
-              "description": null,
+              "title": "SKESA",
+              "description": "SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1665,8 +1731,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Prokka - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.",
-              "description": null,
+              "title": "Prokka",
+              "description": "Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1680,8 +1746,8 @@
             },
             {
               "node_type": "item",
-              "title": "Bakta - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.",
-              "description": null,
+              "title": "Bakta",
+              "description": "Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1708,8 +1774,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "flye - De novo assembler for single molecule sequencing reads using repeat graphs.",
-              "description": null,
+              "title": "flye",
+              "description": "De novo assembler for single molecule sequencing reads using repeat graphs.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1723,8 +1789,8 @@
             },
             {
               "node_type": "item",
-              "title": "hifiasm - A haplotype-resolved assembler for accurate Hifi reads.",
-              "description": null,
+              "title": "hifiasm",
+              "description": "A haplotype-resolved assembler for accurate Hifi reads.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1738,8 +1804,8 @@
             },
             {
               "node_type": "item",
-              "title": "canu - A single molecule sequence assembler for genomes large and small.",
-              "description": null,
+              "title": "canu",
+              "description": "A single molecule sequence assembler for genomes large and small.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1753,8 +1819,8 @@
             },
             {
               "node_type": "item",
-              "title": "wtdbg2 - A fuzzy Bruijn graph approach to long noisy reads assembly",
-              "description": null,
+              "title": "wtdbg2",
+              "description": "A fuzzy Bruijn graph approach to long noisy reads assembly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1781,8 +1847,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "IGV js - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large variety of formats. [ paper-2019",
-              "description": "web ]",
+              "title": "IGV js",
+              "description": "Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large variety of formats. [ paper-2019 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1796,8 +1862,8 @@
             },
             {
               "node_type": "item",
-              "title": "BioJS - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies. [ paper-2014",
-              "description": "web ]",
+              "title": "BioJS",
+              "description": "BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies. [ paper-2014 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1811,8 +1877,8 @@
             },
             {
               "node_type": "item",
-              "title": "JBrowse - JavaScript genome browser that is highly customizable via plugins and track customizations. [ paper-2016",
-              "description": "web ]",
+              "title": "JBrowse",
+              "description": "JavaScript genome browser that is highly customizable via plugins and track customizations. [ paper-2016 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1826,8 +1892,8 @@
             },
             {
               "node_type": "item",
-              "title": "pileup.js - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers. [ paper-2016",
-              "description": "]",
+              "title": "pileup.js",
+              "description": "JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers. [ paper-2016 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1836,13 +1902,13 @@
                 "last_commit": "2021-10-26T07:26:27Z",
                 "owner": "hammerlab",
                 "repo": "pileup.js",
-                "stars": 281
+                "stars": 282
               }
             },
             {
               "node_type": "item",
-              "title": "biodalliance - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF. [ paper-2011",
-              "description": "web ]",
+              "title": "biodalliance",
+              "description": "Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF. [ paper-2011 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1856,8 +1922,8 @@
             },
             {
               "node_type": "item",
-              "title": "scribl - JavaScript library for drawing canvas-based gene diagrams. [ paper-2012",
-              "description": "web ]",
+              "title": "scribl",
+              "description": "JavaScript library for drawing canvas-based gene diagrams. [ paper-2012 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1871,8 +1937,8 @@
             },
             {
               "node_type": "item",
-              "title": "DNAism - Horizon chart D3-based JavaScript library for DNA data. [ paper-2016",
-              "description": "web ]",
+              "title": "DNAism",
+              "description": "Horizon chart D3-based JavaScript library for DNA data. [ paper-2016 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1886,8 +1952,8 @@
             },
             {
               "node_type": "item",
-              "title": "Circleator - Flexible circular visualization of genome-associated data with BioPerl and SVG. [ paper-2014",
-              "description": "]",
+              "title": "Circleator",
+              "description": "Flexible circular visualization of genome-associated data with BioPerl and SVG. [ paper-2014 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1901,8 +1967,8 @@
             },
             {
               "node_type": "item",
-              "title": "Squiggle - Easy-to-use DNA sequence visualization tool that turns FASTA files into browser-based visualizations. [ paper-2018",
-              "description": "web ]",
+              "title": "Squiggle",
+              "description": "Easy-to-use DNA sequence visualization tool that turns FASTA files into browser-based visualizations. [ paper-2018 | web ]",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1916,8 +1982,8 @@
             },
             {
               "node_type": "item",
-              "title": "Island Plot - D3 JavaScript based genome viewer. Constructs SVGs. [ paper-2015",
-              "description": "]",
+              "title": "Island Plot",
+              "description": "D3 JavaScript based genome viewer. Constructs SVGs. [ paper-2015 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1931,8 +1997,8 @@
             },
             {
               "node_type": "item",
-              "title": "PHAT - Point and click, cross platform suite for analysing and visualizing next-generation sequencing datasets. [ paper-2018",
-              "description": "web ]",
+              "title": "PHAT",
+              "description": "Point and click, cross platform suite for analysing and visualizing next-generation sequencing datasets. [ paper-2018 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1953,8 +2019,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "fujiplot - A circos representation of multiple GWAS results. [ paper-2018",
-              "description": "]",
+              "title": "fujiplot",
+              "description": "A circos representation of multiple GWAS results. [ paper-2018 ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1968,8 +2034,8 @@
             },
             {
               "node_type": "item",
-              "title": "Circos - Perl package for circular plots, which are well suited for genomic rearrangements. [ paper-2009",
-              "description": "web ]",
+              "title": "Circos",
+              "description": "Perl package for circular plots, which are well suited for genomic rearrangements. [ paper-2009 | web ]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1996,6 +2062,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Open Source Society University on Bioinformatics",
+              "description": "Solid path for those of you who want to complete a Bioinformatics course on your own time, for free, with courses from the best universities in the World.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 61673420,
+                "language": null,
+                "last_commit": "2024-04-08T00:22:09Z",
+                "owner": "ossu",
+                "repo": "bioinformatics",
+                "stars": 7084
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Becoming a Bioinformatician"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Awesome AI-based Protein Design",
               "description": "A collection of research papers for AI-based protein design.",
               "children": [],
@@ -2006,7 +2094,7 @@
                 "last_commit": "2024-05-13T05:37:22Z",
                 "owner": "opendilab",
                 "repo": "awesome-AI-based-protein-design",
-                "stars": 315
+                "stars": 316
               }
             },
             {
@@ -2065,13 +2153,57 @@
           "description": null,
           "node_type": "group",
           "title": "RNA-Seq"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChIP-seq analysis notes from Tommy Tang",
+              "description": "Resources on ChIP-seq data which include papers, methods, links to software, and analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37345937,
+                "language": "Python",
+                "last_commit": "2024-08-05T00:55:46Z",
+                "owner": "crazyhottommy",
+                "repo": "ChIP-seq-analysis",
+                "stars": 854
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ChIP-Seq"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Leek group guide to genomics papers",
+              "description": "Expertly curated genomics papers to get up to speed on genomics, RNA-seq, statistics (used in genomics), software development, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24905212,
+                "language": null,
+                "last_commit": "2018-11-05T18:49:23Z",
+                "owner": "jtleek",
+                "repo": "genomicspapers",
+                "stars": 505
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:21:55.375Z",
+    "last_updated": "2026-08-24T14:00:21.028Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_id": 23372071,
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
