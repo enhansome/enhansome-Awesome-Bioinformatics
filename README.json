@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5175
+            "stars": 5176
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T04:53:31Z",
             "owner": "rust-bio",
             "repo": "rust-bio",
-            "stars": 1834
+            "stars": 1837
           }
         },
         {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-16T14:56:01Z",
                 "owner": "divonlan",
                 "repo": "genozip",
-                "stars": 187
+                "stars": 189
               }
             }
           ],
@@ -223,7 +223,7 @@
                 "last_commit": "2026-07-29T04:52:44Z",
                 "owner": "shenwei356",
                 "repo": "csvtk",
-                "stars": 1166
+                "stars": 1169
               }
             },
             {
@@ -383,10 +383,10 @@
                 "archived": false,
                 "id": 9052236,
                 "language": "Groovy",
-                "last_commit": "2026-08-25T16:00:49Z",
+                "last_commit": "2026-08-26T16:37:03Z",
                 "owner": "nextflow-io",
                 "repo": "nextflow",
-                "stars": 3473
+                "stars": 3475
               }
             },
             {
@@ -446,7 +446,7 @@
                 "last_commit": "2026-07-17T14:45:30Z",
                 "owner": "insitro",
                 "repo": "redun",
-                "stars": 598
+                "stars": 597
               }
             },
             {
@@ -655,7 +655,7 @@
                 "last_commit": "2025-06-01T19:25:29Z",
                 "owner": "lh3",
                 "repo": "seqtk",
-                "stars": 1558
+                "stars": 1559
               }
             },
             {
@@ -794,7 +794,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-25T16:13:05Z",
+                "last_commit": "2026-08-25T19:30:33Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1070
@@ -836,7 +836,7 @@
                     "last_commit": "2026-08-07T13:43:25Z",
                     "owner": "lh3",
                     "repo": "bwa",
-                    "stars": 1765
+                    "stars": 1766
                   }
                 },
                 {
@@ -881,7 +881,7 @@
                     "last_commit": "2025-02-04T14:30:12Z",
                     "owner": "mummer4",
                     "repo": "mummer",
-                    "stars": 573
+                    "stars": 572
                   }
                 },
                 {
@@ -1198,7 +1198,7 @@
                 "last_commit": "2026-05-02T14:08:41Z",
                 "owner": "brentp",
                 "repo": "mosdepth",
-                "stars": 871
+                "stars": 872
               }
             },
             {
@@ -1407,7 +1407,7 @@
                 "last_commit": "2026-03-31T15:52:14Z",
                 "owner": "daler",
                 "repo": "gffutils",
-                "stars": 319
+                "stars": 320
               }
             }
           ],
@@ -1520,7 +1520,7 @@
                     "last_commit": "2026-06-12T13:27:02Z",
                     "owner": "cokelaer",
                     "repo": "bioservices",
-                    "stars": 341
+                    "stars": 342
                   }
                 },
                 {
@@ -1629,7 +1629,7 @@
                     "archived": false,
                     "id": 667289,
                     "language": "Python",
-                    "last_commit": "2025-03-16T14:28:10Z",
+                    "last_commit": "2026-08-26T16:28:15Z",
                     "owner": "daler",
                     "repo": "pybedtools",
                     "stars": 330
@@ -1644,7 +1644,7 @@
                     "archived": false,
                     "id": 894611596,
                     "language": "Python",
-                    "last_commit": "2026-08-25T16:28:35Z",
+                    "last_commit": "2026-08-26T16:39:50Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
                     "stars": 193
@@ -1689,7 +1689,7 @@
                 "last_commit": "2026-05-19T22:40:40Z",
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2240
+                "stars": 2242
               }
             },
             {
@@ -1704,7 +1704,7 @@
                 "last_commit": "2026-06-16T10:47:36Z",
                 "owner": "ablab",
                 "repo": "spades",
-                "stars": 955
+                "stars": 956
               }
             },
             {
@@ -2131,7 +2131,7 @@
                 "last_commit": "2023-05-31T18:45:10Z",
                 "owner": "griffithlab",
                 "repo": "rnaseq_tutorial",
-                "stars": 1436
+                "stars": 1435
               }
             },
             {
@@ -2203,7 +2203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:34:08.879Z",
+    "last_updated": "2026-08-26T16:46:14.947Z",
     "original_repository": "danielecook/Awesome-Bioinformatics",
     "original_repository_id": 23372071,
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
