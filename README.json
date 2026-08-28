@@ -57,7 +57,7 @@
             "archived": false,
             "id": 9199359,
             "language": "Java",
-            "last_commit": "2026-08-27T04:44:40Z",
+            "last_commit": "2026-08-27T19:04:48Z",
             "owner": "biojava",
             "repo": "biojava",
             "stars": 630
@@ -162,7 +162,7 @@
                 "archived": false,
                 "id": 228133171,
                 "language": "C",
-                "last_commit": "2026-08-16T14:56:01Z",
+                "last_commit": "2026-08-27T14:00:05Z",
                 "owner": "divonlan",
                 "repo": "genozip",
                 "stars": 189
@@ -193,7 +193,7 @@
                 "last_commit": "2026-08-03T23:53:23Z",
                 "owner": "wireservice",
                 "repo": "csvkit",
-                "stars": 6409
+                "stars": 6410
               }
             },
             {
@@ -383,7 +383,7 @@
                 "archived": false,
                 "id": 9052236,
                 "language": "Groovy",
-                "last_commit": "2026-08-27T11:15:15Z",
+                "last_commit": "2026-08-27T22:03:08Z",
                 "owner": "nextflow-io",
                 "repo": "nextflow",
                 "stars": 3476
@@ -446,7 +446,7 @@
                 "last_commit": "2026-07-17T14:45:30Z",
                 "owner": "insitro",
                 "repo": "redun",
-                "stars": 597
+                "stars": 598
               }
             },
             {
@@ -794,7 +794,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:32:49Z",
+                "last_commit": "2026-08-27T19:55:26Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1070
@@ -1049,7 +1049,7 @@
                 "last_commit": "2026-08-21T13:37:02Z",
                 "owner": "samtools",
                 "repo": "bcftools",
-                "stars": 887
+                "stars": 888
               }
             },
             {
@@ -1111,7 +1111,7 @@
                     "last_commit": "2026-08-24T13:55:58Z",
                     "owner": "dellytools",
                     "repo": "delly",
-                    "stars": 533
+                    "stars": 534
                   }
                 },
                 {
@@ -1310,7 +1310,7 @@
                 "last_commit": "2026-08-21T13:37:02Z",
                 "owner": "samtools",
                 "repo": "bcftools",
-                "stars": 887
+                "stars": 888
               }
             },
             {
@@ -1389,7 +1389,7 @@
                 "archived": false,
                 "id": 222659741,
                 "language": "HTML",
-                "last_commit": "2026-05-18T16:16:02Z",
+                "last_commit": "2026-08-27T12:00:24Z",
                 "owner": "NBISweden",
                 "repo": "AGAT",
                 "stars": 585
@@ -1505,7 +1505,7 @@
                     "last_commit": "2026-07-08T18:19:23Z",
                     "owner": "openvax",
                     "repo": "pyensembl",
-                    "stars": 407
+                    "stars": 406
                   }
                 },
                 {
@@ -1554,10 +1554,10 @@
                     "archived": false,
                     "id": 80342493,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:16:04Z",
+                    "last_commit": "2026-08-27T15:39:50Z",
                     "owner": "scverse",
                     "repo": "scanpy",
-                    "stars": 2548
+                    "stars": 2549
                   }
                 },
                 {
@@ -1647,7 +1647,7 @@
                     "last_commit": "2026-08-26T17:01:03Z",
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
-                    "stars": 193
+                    "stars": 194
                   }
                 },
                 {
@@ -2146,7 +2146,7 @@
                 "last_commit": "2021-11-15T03:18:18Z",
                 "owner": "crazyhottommy",
                 "repo": "RNA-seq-analysis",
-                "stars": 1096
+                "stars": 1097
               }
             }
           ],
@@ -2203,7 +2203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:24.292Z",
+    "last_updated": "2026-08-28T00:44:40.733Z",
     "original_repository_info": {
       "archived": false,
       "id": 23372071,
@@ -2211,7 +2211,7 @@
       "last_commit": "2026-04-07T14:29:34Z",
       "owner": "danielecook",
       "repo": "Awesome-Bioinformatics",
-      "stars": 4260
+      "stars": 4261
     },
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-Bioinformatics",
