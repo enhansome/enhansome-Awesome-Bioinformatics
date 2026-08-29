@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official git repository for Biopython (originally converted from CVS)",
+            "homepage": "http://biopython.org/",
             "id": 151541,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T15:46:25Z",
+            "open_issues": 609,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5177
+            "stars": 5177,
+            "topics": [
+              "bioinformatics",
+              "biopython",
+              "dna",
+              "genomics",
+              "phylogenetics",
+              "protein",
+              "protein-structure",
+              "python",
+              "sequence-alignment"
+            ]
           },
           "first_seen": "2026-08-29T00:24:02.408Z"
         },
@@ -26,12 +41,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.",
+            "homepage": "https://rust-bio.github.io",
             "id": 29821195,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-27T04:53:31Z",
+            "open_issues": 109,
             "owner": "rust-bio",
             "repo": "rust-bio",
-            "stars": 1838
+            "stars": 1838,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:24:02.408Z"
         },
@@ -42,12 +62,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Go package for engineering organisms.",
+            "homepage": "https://pkg.go.dev/github.com/bebop/poly",
             "id": 267953979,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-01T00:34:00Z",
+            "open_issues": 32,
             "owner": "bebop",
             "repo": "poly",
-            "stars": 735
+            "stars": 735,
+            "topics": [
+              "alignment",
+              "bioengineering",
+              "bioinformatics",
+              "codon-optimizer",
+              "computational-biology",
+              "dna",
+              "dna-barcode",
+              "dna-barcoding",
+              "fasta",
+              "genbank",
+              "genetic-engineering",
+              "go",
+              "golden-gate",
+              "mash",
+              "molecular-biology",
+              "plasmids",
+              "primer-design",
+              "sequence-hashing",
+              "synbio",
+              "synthetic-biology"
+            ]
           },
           "first_seen": "2026-08-29T00:24:02.408Z"
         },
@@ -58,12 +104,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book::microscope::coffee: BioJava is an open-source project dedicated to providing a Java library for processing biological data.",
+            "homepage": "https://biojava.org",
             "id": 9199359,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-28T16:48:42Z",
+            "open_issues": 71,
             "owner": "biojava",
             "repo": "biojava",
-            "stars": 631
+            "stars": 631,
+            "topics": [
+              "bioinformatics",
+              "genomics",
+              "java",
+              "parser-library",
+              "pdb",
+              "protein-data-bank",
+              "protein-modification",
+              "protein-sequences",
+              "protein-structure",
+              "sequence-alignment",
+              "structural-bioinformatics",
+              "structure-alignment"
+            ]
           },
           "first_seen": "2026-08-29T00:24:02.408Z"
         },
@@ -74,12 +138,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The modern C++ library for sequence analysis. Contains version 3 of the library and API docs.",
+            "homepage": "https://www.seqan.de",
             "id": 55410078,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T13:59:56Z",
+            "open_issues": 33,
             "owner": "seqan",
             "repo": "seqan3",
-            "stars": 461
+            "stars": 461,
+            "topics": [
+              "bioinformatics",
+              "blast",
+              "cpp-concepts",
+              "cpp20",
+              "fasta",
+              "fastq",
+              "fm-index",
+              "modern",
+              "samtools",
+              "seqan",
+              "sequence-alignment",
+              "sequence-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:24:02.408Z"
         },
@@ -90,12 +172,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Core BioPerl 1.x code",
+            "homepage": "http://bioperl.org",
             "id": 663083,
             "language": "Perl",
+            "license": null,
             "last_commit": "2026-06-26T00:32:46Z",
+            "open_issues": 64,
             "owner": "bioperl",
             "repo": "bioperl-live",
-            "stars": 320
+            "stars": 320,
+            "topics": [
+              "bioinformatics",
+              "bioperl",
+              "perl",
+              "toolkit"
+            ]
           },
           "first_seen": "2026-08-29T00:24:02.408Z"
         },
@@ -106,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCaml Bioinformatics Library",
+            "homepage": "http://biocaml.org",
             "id": 574749,
             "language": "OCaml",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-26T23:10:38Z",
+            "open_issues": 36,
             "owner": "biocaml",
             "repo": "biocaml",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:24:02.408Z"
         }
@@ -130,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web application to explore the Sequence Read Archive.",
+                "homepage": "https://sra-explorer.info/",
                 "id": 24221815,
                 "language": "HTML",
+                "license": "GPL-2.0",
                 "last_commit": "2025-07-17T16:55:05Z",
+                "open_issues": 10,
                 "owner": "ewels",
                 "repo": "sra-explorer",
-                "stars": 225
+                "stars": 225,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -146,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The command-line interface to GGD",
+                "homepage": null,
                 "id": 56866200,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-16T09:51:19Z",
+                "open_issues": 4,
                 "owner": "gogetdata",
                 "repo": "ggd-cli",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -169,12 +276,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern compressor for genomic files (FASTQ, SAM/BAM/CRAM, VCF, FASTA, GFF/GTF/GVF, 23andMe...), up to 5x better than gzip and faster too",
+                "homepage": null,
                 "id": 228133171,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T14:40:51Z",
+                "open_issues": 0,
                 "owner": "divonlan",
                 "repo": "genozip",
-                "stars": 189
+                "stars": 189,
+                "topics": [
+                  "23andme",
+                  "bam",
+                  "bgzip",
+                  "bwa",
+                  "compression",
+                  "cram",
+                  "fasta",
+                  "fastq",
+                  "genomics",
+                  "gvf",
+                  "gzip",
+                  "sam",
+                  "samtools",
+                  "vcf"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -198,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A suite of utilities for converting to and working with CSV, the king of tabular file formats.",
+                "homepage": "https://csvkit.readthedocs.io",
                 "id": 1553944,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T23:53:23Z",
+                "open_issues": 40,
                 "owner": "wireservice",
                 "repo": "csvkit",
-                "stars": 6410
+                "stars": 6410,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -214,12 +346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Useful bash one-liners for bioinformatics.",
+                "homepage": null,
                 "id": 13700142,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-09-09T21:23:36Z",
+                "open_issues": 5,
                 "owner": "stephenturner",
                 "repo": "oneliners",
-                "stars": 2026
+                "stars": 2026,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -230,12 +367,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform, efficient and practical CSV/TSV toolkit in Golang",
+                "homepage": "http://bioinf.shenwei.me/csvtk",
                 "id": 55350474,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-29T04:52:44Z",
+                "open_issues": 16,
                 "owner": "shenwei356",
                 "repo": "csvtk",
-                "stars": 1169
+                "stars": 1169,
+                "topics": [
+                  "bioinformatics",
+                  "command-line",
+                  "cross-platform",
+                  "csv",
+                  "golang",
+                  "tool",
+                  "toolkit",
+                  "tsv"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -246,12 +397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create an index on a compressed text file",
+                "homepage": null,
                 "id": 31368435,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-12-30T23:34:59Z",
+                "open_issues": 19,
                 "owner": "mattgodbolt",
                 "repo": "zindex",
-                "stars": 658
+                "stars": 658,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -262,12 +418,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Modular and universal bioinformatics",
+                "homepage": "bionode.io",
                 "id": 16189872,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-18T21:46:35Z",
+                "open_issues": 15,
                 "owner": "bionode",
                 "repo": "bionode",
-                "stars": 313
+                "stars": 313,
+                "topics": [
+                  "bioinformatics",
+                  "bionode",
+                  "metapackage",
+                  "nodejs",
+                  "os4openscience",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -278,12 +446,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syntax highlighting for computational biology",
+                "homepage": "http://bioSyntax.org",
                 "id": 113121051,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-04T03:17:52Z",
+                "open_issues": 15,
                 "owner": "bioSyntax",
                 "repo": "bioSyntax",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "bam",
+                  "bioinformatics",
+                  "computational-biology",
+                  "fasta",
+                  "gedit",
+                  "less",
+                  "pdb",
+                  "sublime-text",
+                  "syntax-highlighting",
+                  "vcf",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -294,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Note: tabix and bgzip binaries are now part of the HTSlib project.",
+                "homepage": "https://github.com/samtools/htslib",
                 "id": 3666422,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-08-03T14:29:38Z",
+                "open_issues": 7,
                 "owner": "samtools",
                 "repo": "tabix",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -310,12 +500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " a wee tool for random access into BGZF files.",
+                "homepage": null,
                 "id": 4407405,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2018-05-10T17:41:12Z",
+                "open_issues": 17,
                 "owner": "arq5x",
                 "repo": "grabix",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -326,12 +521,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "quickly filter fastq files by matching sequences to a set of regex patterns",
+                "homepage": "https://github.com/Rbfinch/grepq",
                 "id": 882566930,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-04-18T06:27:43Z",
+                "open_issues": 5,
                 "owner": "Rbfinch",
                 "repo": "grepq",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "bioinformatics",
+                  "fastq",
+                  "grep",
+                  "grep-like",
+                  "grep-search",
+                  "grepping",
+                  "gzip",
+                  "json",
+                  "regex",
+                  "sqlite",
+                  "zstd"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -342,12 +554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sort genomic data",
+                "homepage": null,
                 "id": 56342044,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-11-07T04:12:39Z",
+                "open_issues": 2,
                 "owner": "brentp",
                 "repo": "gsort",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -358,12 +575,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily submitting multiple PBS jobs or running local jobs in parallel.  Multiple input files supported.",
+                "homepage": null,
                 "id": 31889881,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-24T00:49:56Z",
+                "open_issues": 1,
                 "owner": "shenwei356",
                 "repo": "easy_qsub",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "batch",
+                  "cluster",
+                  "cluster-files",
+                  "qsub",
+                  "submit"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -374,12 +602,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write-once-read-many table for large datasets.",
+                "homepage": null,
                 "id": 6419297,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-10-05T13:27:45Z",
+                "open_issues": 11,
                 "owner": "wormtable",
                 "repo": "wormtable",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -403,12 +636,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DSL for data-driven computational pipelines",
+                "homepage": "http://nextflow.io",
                 "id": 9052236,
                 "language": "Groovy",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:21:25Z",
+                "open_issues": 437,
                 "owner": "nextflow-io",
                 "repo": "nextflow",
-                "stars": 3476
+                "stars": 3476,
+                "topics": [
+                  "aws",
+                  "bioinformatics",
+                  "cloud",
+                  "dataflow",
+                  "docker",
+                  "groovy",
+                  "hello",
+                  "hpc",
+                  "nextflow",
+                  "pipeline",
+                  "pipeline-framework",
+                  "reproducible-research",
+                  "reproducible-science",
+                  "sge",
+                  "singularity",
+                  "singularity-containers",
+                  "slurm",
+                  "workflow-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -419,12 +676,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for the CWL standards. Use https://cwl.discourse.group/ for support 😊",
+                "homepage": "https://www.commonwl.org",
                 "id": 24454775,
                 "language": "Common Workflow Language",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-15T20:12:33Z",
+                "open_issues": 241,
                 "owner": "common-workflow-language",
                 "repo": "common-workflow-language",
-                "stars": 1480
+                "stars": 1480,
+                "topics": [
+                  "common-workflow-language",
+                  "commonwl",
+                  "containers",
+                  "cwl",
+                  "science",
+                  "sciworkflows",
+                  "workflow",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -435,12 +706,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robust, flexible and resource-efficient pipelines using Go and the commandline",
+                "homepage": "https://scipipe.org",
                 "id": 31828678,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-08-14T01:44:15Z",
+                "open_issues": 57,
                 "owner": "scipipe",
                 "repo": "scipipe",
-                "stars": 1109
+                "stars": 1109,
+                "topics": [
+                  "bioinformatics",
+                  "bioinformatics-pipeline",
+                  "cheminformatics",
+                  "dataflow",
+                  "fbp",
+                  "go",
+                  "golang",
+                  "pipeline",
+                  "scientific-workflows",
+                  "scipipe",
+                  "workflow",
+                  "workflow-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -451,12 +740,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+                "homepage": "http://cromwell.readthedocs.io/",
                 "id": 34136406,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-04T14:32:07Z",
+                "open_issues": 813,
                 "owner": "broadinstitute",
                 "repo": "cromwell",
-                "stars": 1080
+                "stars": 1080,
+                "topics": [
+                  "application",
+                  "bioinformatics",
+                  "cloud",
+                  "containers",
+                  "docker",
+                  "executor",
+                  "ga4gh",
+                  "hpc",
+                  "scala",
+                  "wdl",
+                  "workflow",
+                  "workflow-description-language",
+                  "workflow-execution"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -467,12 +775,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another redundant workflow engine",
+                "homepage": "https://insitro.github.io/redun/",
                 "id": 424419603,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-17T14:45:30Z",
+                "open_issues": 34,
                 "owner": "insitro",
                 "repo": "redun",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "aws",
+                  "bioinformatics",
+                  "data-engineering",
+                  "data-science",
+                  "docker",
+                  "etl",
+                  "gcp",
+                  "ml",
+                  "python",
+                  "workflow-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -483,12 +807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bpipe - a tool for running and managing bioinformatics pipelines",
+                "homepage": "http://docs.bpipe.org/",
                 "id": 25450807,
                 "language": "Groovy",
-                "last_commit": "2026-08-17T00:55:06Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:53:01Z",
+                "open_issues": 158,
                 "owner": "ssadedin",
                 "repo": "bpipe",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -499,12 +828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CGAT-ruffus is a lightweight python module for running computational pipelines",
+                "homepage": null,
                 "id": 7473458,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-12T08:12:28Z",
+                "open_issues": 49,
                 "owner": "cgat-developers",
                 "repo": "ruffus",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -515,12 +849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BigDataScript: Scirpting language for big data",
+                "homepage": null,
                 "id": 8540039,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-03-31T12:23:13Z",
+                "open_issues": 11,
                 "owner": "pcingola",
                 "repo": "BigDataScript",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -531,12 +870,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the SeqWare Project's main repo.",
+                "homepage": "http://seqware.io/",
                 "id": 4298816,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2018-07-09T21:19:47Z",
+                "open_issues": 5,
                 "owner": "SeqWare",
                 "repo": "seqware",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "bioinformatics",
+                  "java",
+                  "ngs"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -547,12 +895,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Workflow Description Language - Specification and Implementations",
+                "homepage": "https://software.broadinstitute.org/wdl/",
                 "id": 117274103,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-03-19T18:29:00Z",
+                "open_issues": 0,
                 "owner": "broadinstitute",
                 "repo": "wdl",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -570,12 +923,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+                "homepage": null,
                 "id": 22013111,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-04T07:45:32Z",
+                "open_issues": 34,
                 "owner": "pditommaso",
                 "repo": "awesome-pipeline",
-                "stars": 6625
+                "stars": 6625,
+                "topics": [
+                  "awesome-list",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -586,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis",
+                "homepage": "https://bcbio-nextgen.readthedocs.io",
                 "id": 8049897,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-24T11:11:30Z",
+                "open_issues": 133,
                 "owner": "bcbio",
                 "repo": "bcbio-nextgen",
-                "stars": 1030
+                "stars": 1030,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -602,12 +968,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible pipeline for complete analysis of bacterial genomes",
+                "homepage": "https://bactopia.io",
                 "id": 172074074,
                 "language": "Nextflow",
+                "license": "MIT",
                 "last_commit": "2026-08-05T14:00:28Z",
+                "open_issues": 64,
                 "owner": "bactopia",
                 "repo": "bactopia",
-                "stars": 522
+                "stars": 522,
+                "topics": [
+                  "bacterial-genomes",
+                  "bioconda",
+                  "conda",
+                  "fastqs",
+                  "nextflow"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -618,12 +995,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports and shiny app.",
+                "homepage": "https://bacannot.readthedocs.io/en/latest/",
                 "id": 217119558,
                 "language": "Nextflow",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-22T15:59:49Z",
+                "open_issues": 10,
                 "owner": "fmalmeida",
                 "repo": "bacannot",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "annotation",
+                  "antimicrobial-genes-annotation",
+                  "barrnap",
+                  "genome-analysis",
+                  "genome-browser",
+                  "genomic-islands-prediction",
+                  "insertion-sequences",
+                  "ko-annotation",
+                  "methylation-annotation",
+                  "mobile-genetic-elements",
+                  "nextflow",
+                  "phigaro",
+                  "pipeline",
+                  "prophage-sequences-prediction",
+                  "prophages",
+                  "reproducible-research",
+                  "rgi",
+                  "rrna-prediction",
+                  "virulence-factor",
+                  "virulence-genes"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -634,12 +1037,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pipeline for preprocessing NGS data from Illumina, Nanopore and PacBio technologies",
+                "homepage": "https://ngs-preprocess.readthedocs.io/",
                 "id": 209628536,
                 "language": "Nextflow",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-30T13:46:44Z",
+                "open_issues": 4,
                 "owner": "fmalmeida",
                 "repo": "ngs-preprocess",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "bax2bam",
+                  "bioinformatics",
+                  "illumina",
+                  "nanopack",
+                  "nextflow",
+                  "ngs",
+                  "ngs-preprocess",
+                  "pacbio",
+                  "pacbio-ccs",
+                  "pipeline",
+                  "porechop",
+                  "reproducible-research",
+                  "reproducible-science",
+                  "trimgalore",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -650,12 +1074,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software for intuitively doing Differential Gene Expression (DGE) analysis on Windows and GNU\\Linux, based on R packages.",
+                "homepage": "http://www.bioinformatics-brazil.org/r-peridot",
                 "id": 89624875,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2019-10-15T15:56:06Z",
+                "open_issues": 0,
                 "owner": "pentalpha",
                 "repo": "r-peridot",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bioconductor",
+                  "bioinformatics",
+                  "bioinformatics-analysis",
+                  "bioinformatics-pipeline",
+                  "bioinformatics-tool",
+                  "differential-expression",
+                  "differential-expression-analysis",
+                  "gene-expression",
+                  "rna-seq-analysis",
+                  "rna-seq-pipeline"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -673,12 +1113,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform and ultrafast toolkit for FASTA/Q file manipulation",
+                "homepage": "https://bioinf.shenwei.me/seqkit",
                 "id": 52715040,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-21T15:30:37Z",
+                "open_issues": 19,
                 "owner": "shenwei356",
                 "repo": "seqkit",
-                "stars": 1590
+                "stars": 1590,
+                "topics": [
+                  "bioinformatics",
+                  "cross-platform",
+                  "fasta",
+                  "fastq",
+                  "golang",
+                  "manipulation",
+                  "sequence",
+                  "tool",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -689,12 +1144,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for processing sequences in FASTA/Q formats",
+                "homepage": null,
                 "id": 3813593,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-06-01T19:25:29Z",
+                "open_issues": 69,
                 "owner": "lh3",
                 "repo": "seqtk",
-                "stars": 1559
+                "stars": 1559,
+                "topics": [
+                  "bioinformatics",
+                  "sequence-analysis"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -705,12 +1168,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aggregate results from bioinformatics analyses across many samples into a single report.",
+                "homepage": "https://seqera.io/multiqc/",
                 "id": 40187375,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T13:31:51Z",
+                "open_issues": 283,
                 "owner": "MultiQC",
                 "repo": "MultiQC",
-                "stars": 1489
+                "stars": 1489,
+                "topics": [
+                  "analysis",
+                  "bioconda",
+                  "bioinformatics",
+                  "data-visualization",
+                  "multiqc",
+                  "pypi",
+                  "python",
+                  "quality-control",
+                  "reporting",
+                  "seqera",
+                  "vizualisation"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -721,12 +1201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A quality control analysis tool for high throughput sequencing data",
+                "homepage": null,
                 "id": 115000206,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-20T12:56:56Z",
+                "open_issues": 30,
                 "owner": "s-andrews",
                 "repo": "FastQC",
-                "stars": 614
+                "stars": 614,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -737,12 +1222,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data",
+                "homepage": null,
                 "id": 40188505,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-14T07:15:54Z",
+                "open_issues": 28,
                 "owner": "OpenGene",
                 "repo": "AfterQC",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "adapter-trimming",
+                  "bioinformatics",
+                  "error",
+                  "fastq",
+                  "filtering",
+                  "ngs",
+                  "overlap",
+                  "qc",
+                  "quality-control",
+                  "sequencing",
+                  "trimming"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -753,12 +1255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FASTA/FASTQ pre-processing programs",
+                "homepage": null,
                 "id": 14233196,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-04T15:29:26Z",
+                "open_issues": 12,
                 "owner": "agordon",
                 "repo": "fastx_toolkit",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -769,12 +1276,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: seqfu - Sequece Fastx Utilities",
+                "homepage": "https://telatin.github.io/seqfu2",
                 "id": 316275163,
                 "language": "Nim",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T19:20:39Z",
+                "open_issues": 0,
                 "owner": "telatin",
                 "repo": "seqfu2",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "bioconda",
+                  "bioinformatics",
+                  "bioinformatics-tool",
+                  "fasta",
+                  "fastq",
+                  "genomics",
+                  "ngs",
+                  "sequencing"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -785,12 +1306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An imagemagick-like frontend to Biopython SeqIO",
+                "homepage": "http://seqmagick.readthedocs.org",
                 "id": 1107687,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-18T15:45:02Z",
+                "open_issues": 16,
                 "owner": "fhcrc",
                 "repo": "seqmagick",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -801,12 +1327,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple FASTQ quality assessment using Python",
+                "homepage": "https://pypi.python.org/pypi/fastqp",
                 "id": 13045699,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-24T07:19:05Z",
+                "open_issues": 13,
                 "owner": "mdshw5",
                 "repo": "fastqp",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "bioinformatics",
+                  "fastq",
+                  "kmer-distribution",
+                  "nucleotide-plot",
+                  "python",
+                  "sam"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -817,12 +1355,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Explore and analyze biological sequence data",
+                "homepage": null,
                 "id": 19203682,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-01T03:49:19Z",
+                "open_issues": 0,
                 "owner": "incertae-sedis",
                 "repo": "smof",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "bioinformatics",
+                  "biology",
+                  "fasta",
+                  "genomics",
+                  "sequence",
+                  "sequence-analysis"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -840,12 +1390,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud-native genomic dataframes and batch computing",
+                "homepage": "https://hail.is",
                 "id": 45069467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:46:06Z",
+                "open_issues": 364,
                 "owner": "hail-is",
                 "repo": "hail",
-                "stars": 1070
+                "stars": 1070,
+                "topics": [
+                  "bioinformatics",
+                  "genetics",
+                  "genomics",
+                  "gwas",
+                  "hail",
+                  "python",
+                  "software",
+                  "vcf"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -856,12 +1420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable gVCF merging and joint variant calling for population sequencing projects",
+                "homepage": null,
                 "id": 33585912,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-12T00:01:44Z",
+                "open_issues": 103,
                 "owner": "dnanexus-rnd",
                 "repo": "GLnexus",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -881,12 +1450,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment)",
+                    "homepage": null,
                     "id": 1253014,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-07T13:43:25Z",
+                    "open_issues": 100,
                     "owner": "lh3",
                     "repo": "bwa",
-                    "stars": 1766
+                    "stars": 1766,
+                    "topics": [
+                      "bioinformatics",
+                      "fm-index",
+                      "genomics",
+                      "sequence-alignment"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -897,12 +1476,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Accelerated BLAST compatible local sequence aligner.",
+                    "homepage": null,
                     "id": 31987083,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-04T18:26:34Z",
+                    "open_issues": 216,
                     "owner": "bbuchfink",
                     "repo": "diamond",
-                    "stars": 1316
+                    "stars": 1316,
+                    "topics": [
+                      "sequence-alignment"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -913,12 +1499,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fast and sensitive gapped read aligner",
+                    "homepage": null,
                     "id": 7263010,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-01T14:06:01Z",
+                    "open_issues": 194,
                     "owner": "BenLangmead",
                     "repo": "bowtie2",
-                    "stars": 811
+                    "stars": 811,
+                    "topics": [
+                      "bioinformatics",
+                      "c-plus-plus",
+                      "genomics",
+                      "read-aligners"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -929,12 +1525,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mummer alignment tool",
+                    "homepage": null,
                     "id": 39581510,
                     "language": "C++",
+                    "license": "Artistic-2.0",
                     "last_commit": "2025-02-04T14:30:12Z",
+                    "open_issues": 167,
                     "owner": "mummer4",
                     "repo": "mummer",
-                    "stars": 573
+                    "stars": 573,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -945,12 +1546,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pairwise Sequence Alignment Library",
+                    "homepage": null,
                     "id": 36033248,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-27T16:13:53Z",
+                    "open_issues": 34,
                     "owner": "jeffdaily",
                     "repo": "parasail",
-                    "stars": 287
+                    "stars": 287,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -961,12 +1567,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WFA-lib: Wavefront alignment algorithm library v2",
+                    "homepage": null,
                     "id": 376551444,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-07T08:14:02Z",
+                    "open_issues": 18,
                     "owner": "smarco",
                     "repo": "WFA2-lib",
-                    "stars": 225
+                    "stars": 225,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -977,12 +1588,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast alignment tool based on bwa-mem",
+                    "homepage": null,
                     "id": 916463709,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-02-22T14:29:09Z",
+                    "open_issues": 6,
                     "owner": "zzhofict",
                     "repo": "BWA-FastAlign",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 }
@@ -1000,12 +1616,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple Partial Order Aligner based on Lee, Grasso and Sharlow (2002), for education/demonstration purposes",
+                    "homepage": null,
                     "id": 34757278,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-20T14:00:09Z",
+                    "open_issues": 0,
                     "owner": "ljdursi",
                     "repo": "poapy",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 }
@@ -1023,12 +1644,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MMseqs2: ultra fast and sensitive search and clustering suite",
+                    "homepage": "https://mmseqs.com",
                     "id": 63755587,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T12:05:35Z",
+                    "open_issues": 285,
                     "owner": "soedinglab",
                     "repo": "MMseqs2",
-                    "stars": 2131
+                    "stars": 2131,
+                    "topics": [
+                      "alignment",
+                      "bioinformatics",
+                      "blast",
+                      "linclust",
+                      "metagenomics",
+                      "mmseqs",
+                      "profile-search",
+                      "sequence-clustering",
+                      "sequence-search",
+                      "taxonomy"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 }
@@ -1051,12 +1688,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RSEM: accurate quantification of gene and isoform expression from RNA-Seq data",
+                "homepage": "http://deweylab.biostat.wisc.edu/rsem/",
                 "id": 1345163,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-07T18:43:56Z",
+                "open_issues": 144,
                 "owner": "deweylab",
                 "repo": "RSEM",
-                "stars": 477
+                "stars": 477,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1067,12 +1709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 22273126,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2020-03-31T06:34:50Z",
+                "open_issues": 89,
                 "owner": "cole-trapnell-lab",
                 "repo": "cufflinks",
-                "stars": 324
+                "stars": 324,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -1090,12 +1737,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.",
+                "homepage": null,
                 "id": 111751293,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-03-19T04:57:17Z",
+                "open_issues": 5,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3795
+                "stars": 3795,
+                "topics": [
+                  "bioinformatics",
+                  "deep-learning",
+                  "deep-neural-network",
+                  "deepvariant",
+                  "dna",
+                  "genome",
+                  "genomics",
+                  "machine-learning",
+                  "ngs",
+                  "science",
+                  "sequencing",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1106,12 +1771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html",
+                "homepage": "http://samtools.github.io/bcftools/",
                 "id": 11368595,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T14:05:23Z",
+                "open_issues": 343,
                 "owner": "samtools",
                 "repo": "bcftools",
-                "stars": 888
+                "stars": 888,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1122,12 +1792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian haplotype-based genetic polymorphism discovery and genotyping.",
+                "homepage": "http://arxiv.org/abs/1207.3907",
                 "id": 985260,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-04-20T19:20:01Z",
+                "open_issues": 47,
                 "owner": "freebayes",
                 "repo": "freebayes",
-                "stars": 877
+                "stars": 877,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1138,12 +1813,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian haplotype-based mutation calling",
+                "homepage": null,
                 "id": 30291133,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-13T16:37:59Z",
+                "open_issues": 65,
                 "owner": "luntergroup",
                 "repo": "octopus",
-                "stars": 326
+                "stars": 326,
+                "topics": [
+                  "bioinformatics",
+                  "de-novo-mutation",
+                  "genomics",
+                  "haplotypes",
+                  "phasing",
+                  "single-cell",
+                  "somatic-variants",
+                  "variant-calling",
+                  "variants"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1154,12 +1844,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code repository for GATK versions 1.0 through 3.7 (core engine). For GATK 4 code, see the https://github.com/broadinstitute/gatk repository",
+                "homepage": "https://software.broadinstitute.org/gatk/",
                 "id": 1966284,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-08-22T17:59:41Z",
+                "open_issues": 0,
                 "owner": "broadgsa",
                 "repo": "gatk",
-                "stars": 302
+                "stars": 302,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1172,12 +1867,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DELLY2: Structural variant discovery by integrated paired-end and split-read analysis",
+                    "homepage": null,
                     "id": 14419440,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T13:55:58Z",
+                    "open_issues": 38,
                     "owner": "dellytools",
                     "repo": "delly",
-                    "stars": 534
+                    "stars": 534,
+                    "topics": [
+                      "cancer-genomics",
+                      "delly",
+                      "delly-users",
+                      "genomic",
+                      "germline",
+                      "rearrangement",
+                      "structural-variation",
+                      "sv-discovery",
+                      "svs",
+                      "tumor"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1188,12 +1899,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Structural variant and indel caller for mapped sequencing data",
+                    "homepage": null,
                     "id": 10390195,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-11T18:26:37Z",
+                    "open_issues": 130,
                     "owner": "Illumina",
                     "repo": "manta",
-                    "stars": 468
+                    "stars": 468,
+                    "topics": [
+                      "bioinformatics",
+                      "indels",
+                      "structural-variation",
+                      "structural-variations"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1204,12 +1925,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "lumpy: a general probabilistic framework for structural variant discovery",
+                    "homepage": null,
                     "id": 6121988,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-02-22T01:38:21Z",
+                    "open_issues": 197,
                     "owner": "arq5x",
                     "repo": "lumpy-sv",
-                    "stars": 346
+                    "stars": 346,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1220,12 +1946,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GRIDSS: the Genomic Rearrangement IDentification Software Suite",
+                    "homepage": null,
                     "id": 37255993,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-05-21T07:01:34Z",
+                    "open_issues": 95,
                     "owner": "PapenfussLab",
                     "repo": "gridss",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1236,12 +1967,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "structural variant calling and genotyping with existing tools, but, smoothly.",
+                    "homepage": null,
                     "id": 119127188,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-17T21:55:16Z",
+                    "open_issues": 101,
                     "owner": "brentp",
                     "repo": "smoove",
-                    "stars": 267
+                    "stars": 267,
+                    "topics": [
+                      "genomics",
+                      "lumpy",
+                      "structural-variation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 }
@@ -1264,12 +2004,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing",
+                "homepage": null,
                 "id": 101316174,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-05-02T14:08:41Z",
+                "open_issues": 49,
                 "owner": "brentp",
                 "repo": "mosdepth",
-                "stars": 871
+                "stars": 871,
+                "topics": [
+                  "coverage",
+                  "depth",
+                  "exome",
+                  "genome",
+                  "hacktoberfest",
+                  "nim",
+                  "nim-lang",
+                  "sequencing",
+                  "wgs"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1280,12 +2035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ API & command-line toolkit for working with BAM data",
+                "homepage": null,
                 "id": 679556,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-05-18T08:22:16Z",
+                "open_issues": 72,
                 "owner": "pezmaster31",
                 "repo": "bamtools",
-                "stars": 433
+                "stars": 433,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1296,12 +2056,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... \"like damn that is one smart wine guy\"",
+                "homepage": null,
                 "id": 143888326,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-07-20T21:45:01Z",
+                "open_issues": 62,
                 "owner": "brentp",
                 "repo": "somalier",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "bioinformatics",
+                  "cancer-genomics",
+                  "genomics"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1312,12 +2081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A software for calculating telomere length",
+                "homepage": null,
                 "id": 10317998,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2018-10-24T08:34:42Z",
+                "open_issues": 14,
                 "owner": "zd1",
                 "repo": "telseq",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1328,12 +2102,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SAMStat displays various properties of next-generation sequencing reads stored in SAM/BAM format.",
+                "homepage": null,
                 "id": 113824897,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-03T07:35:17Z",
+                "open_issues": 4,
                 "owner": "TimoLassmann",
                 "repo": "samstat",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "bioinformatics",
+                  "next-generation-sequencing",
+                  "quality-control"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1344,12 +2127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automate common sam & bam conversions",
+                "homepage": null,
                 "id": 2274449,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2013-04-25T18:29:58Z",
+                "open_issues": 0,
                 "owner": "DarwinAwardWinner",
                 "repo": "mergesam",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1360,12 +2148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bam toolbox",
+                "homepage": null,
                 "id": 45126755,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-30T17:47:33Z",
+                "open_issues": 0,
                 "owner": "AndersenLab",
                 "repo": "bam-toolbox",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -1383,12 +2176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html",
+                "homepage": "http://samtools.github.io/bcftools/",
                 "id": 11368595,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T14:05:23Z",
+                "open_issues": 343,
                 "owner": "samtools",
                 "repo": "bcftools",
-                "stars": 888
+                "stars": 888,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1399,12 +2197,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " C++ library and cmdline tools for parsing and manipulating VCF files with python and zig bindings",
+                "homepage": "https://github.com/vcflib/vcflib#vcflib",
                 "id": 932111,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-03-20T10:33:33Z",
+                "open_issues": 23,
                 "owner": "vcflib",
                 "repo": "vcflib",
-                "stars": 684
+                "stars": 684,
+                "topics": [
+                  "genomics",
+                  "genotyping",
+                  "haplotypecaller",
+                  "variant-calling",
+                  "vcf-manipulation"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1415,12 +2224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of tools written in Perl and C++ for working with VCF files, such as those generated by the 1000 Genomes Project. ",
+                "homepage": "https://vcftools.github.io/",
                 "id": 38052058,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-05-15T00:51:58Z",
+                "open_issues": 119,
                 "owner": "vcftools",
                 "repo": "vcftools",
-                "stars": 562
+                "stars": 562,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1431,12 +2245,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "annotate a VCF with other VCFs/BEDs/tabixed files ",
+                "homepage": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0973-5",
                 "id": 34803627,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-16T19:02:20Z",
+                "open_issues": 37,
                 "owner": "brentp",
                 "repo": "vcfanno",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "annotation",
+                  "bioinformatics",
+                  "genomics",
+                  "vcf"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -1454,12 +2278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bedtools - the swiss army knife for genome arithmetic",
+                "homepage": null,
                 "id": 15059334,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-10T22:16:43Z",
+                "open_issues": 284,
                 "owner": "arq5x",
                 "repo": "bedtools2",
-                "stars": 1045
+                "stars": 1045,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1470,12 +2299,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another Gtf/Gff Analysis Toolkit https://nbisweden.github.io/AGAT/",
+                "homepage": null,
                 "id": 222659741,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T12:00:24Z",
+                "open_issues": 36,
                 "owner": "NBISweden",
                 "repo": "AGAT",
-                "stars": 585
+                "stars": 585,
+                "topics": [
+                  "agat",
+                  "gff",
+                  "gff-format",
+                  "gtf",
+                  "perl-scripts",
+                  "standardisation",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1486,12 +2328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GFF and GTF file manipulation and interconversion",
+                "homepage": "http://daler.github.io/gffutils",
                 "id": 2562619,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-31T15:52:14Z",
+                "open_issues": 18,
                 "owner": "daler",
                 "repo": "gffutils",
-                "stars": 320
+                "stars": 320,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -1509,12 +2356,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reads simulator",
+                "homepage": null,
                 "id": 1283203,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-09-03T14:58:22Z",
+                "open_issues": 21,
                 "owner": "lh3",
                 "repo": "wgsim",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "bioinformatics",
+                  "genomics"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1525,12 +2380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tools for adding mutations to existing .bam files, used for testing mutation callers",
+                "homepage": null,
                 "id": 4290471,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-05T23:39:56Z",
+                "open_issues": 41,
                 "owner": "adamewing",
                 "repo": "bamsurgeon",
-                "stars": 251
+                "stars": 251,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -1548,12 +2408,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIFT",
+                "homepage": null,
                 "id": 16032169,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-02-14T21:38:23Z",
+                "open_issues": 19,
                 "owner": "teamdfir",
                 "repo": "sift",
-                "stars": 551
+                "stars": 551,
+                "topics": [
+                  "aws",
+                  "cast",
+                  "cast-distro",
+                  "cli",
+                  "forensics",
+                  "issues-only",
+                  "memory-forensics",
+                  "salt-state",
+                  "saltstack",
+                  "sans",
+                  "sift",
+                  "timeline-analysis"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1564,12 +2442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 16422517,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-09T19:04:37Z",
+                "open_issues": 17,
                 "owner": "pcingola",
                 "repo": "SnpEff",
-                "stars": 312
+                "stars": 312,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -1589,12 +2472,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl ",
+                    "homepage": null,
                     "id": 18765629,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-08T18:19:23Z",
+                    "open_issues": 6,
                     "owner": "openvax",
                     "repo": "pyensembl",
-                    "stars": 406
+                    "stars": 406,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1605,12 +2493,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Access to Biological Web Services from Python. ",
+                    "homepage": "http://bioservices.readthedocs.io",
                     "id": 23432970,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-12T13:27:02Z",
+                    "open_issues": 5,
                     "owner": "cokelaer",
                     "repo": "bioservices",
-                    "stars": 342
+                    "stars": 342,
+                    "topics": [
+                      "biomodels",
+                      "chebi",
+                      "chembl",
+                      "eutils",
+                      "kegg",
+                      "muscle",
+                      "python",
+                      "quickgo",
+                      "unichem",
+                      "uniprot",
+                      "wikipathways"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1621,12 +2526,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "python access to UCSC genomes database",
+                    "homepage": null,
                     "id": 2314723,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-08-27T13:00:02Z",
+                    "open_issues": 13,
                     "owner": "brentp",
                     "repo": "cruzdb",
-                    "stars": 138
+                    "stars": 138,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 }
@@ -1644,12 +2554,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Single-cell analysis in Python. Scales to >100M cells.",
+                    "homepage": "https://scanpy.scverse.org",
                     "id": 80342493,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T12:13:50Z",
+                    "open_issues": 523,
                     "owner": "scverse",
                     "repo": "scanpy",
-                    "stars": 2549
+                    "stars": 2549,
+                    "topics": [
+                      "anndata",
+                      "bioinformatics",
+                      "data-science",
+                      "machine-learning",
+                      "python",
+                      "scanpy",
+                      "scverse",
+                      "transcriptomics",
+                      "visualize-data"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1660,12 +2585,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.",
+                    "homepage": "https://pysam.readthedocs.io/en/latest/",
                     "id": 16557526,
                     "language": "Cython",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T09:07:42Z",
+                    "open_issues": 266,
                     "owner": "pysam-developers",
                     "repo": "pysam",
-                    "stars": 907
+                    "stars": 907,
+                    "topics": [
+                      "bioinformatics",
+                      "htslib",
+                      "ngs",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1676,12 +2611,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Efficient pythonic random access to fasta subsequences",
+                    "homepage": "https://pypi.python.org/pypi/pyfaidx",
                     "id": 12792173,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-19T19:02:24Z",
+                    "open_issues": 3,
                     "owner": "mdshw5",
                     "repo": "pyfaidx",
-                    "stars": 488
+                    "stars": 488,
+                    "topics": [
+                      "bgzf",
+                      "bioinformatics",
+                      "dna",
+                      "fasta",
+                      "genomics",
+                      "indexing",
+                      "protein",
+                      "python",
+                      "samtools"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1692,12 +2642,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "cython + htslib == fast VCF and BCF processing",
+                    "homepage": null,
                     "id": 40605275,
                     "language": "Cython",
+                    "license": "MIT",
                     "last_commit": "2026-06-25T22:02:20Z",
+                    "open_issues": 49,
                     "owner": "brentp",
                     "repo": "cyvcf2",
-                    "stars": 446
+                    "stars": 446,
+                    "topics": [
+                      "bioinformatics",
+                      "cython",
+                      "genomics",
+                      "htslib",
+                      "vcf"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1708,12 +2669,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Variant Call Format reader for Python.",
+                    "homepage": "http://pyvcf.readthedocs.org/en/latest/index.html",
                     "id": 2675994,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-09-22T17:46:38Z",
+                    "open_issues": 100,
                     "owner": "jamescasbon",
                     "repo": "PyVCF",
-                    "stars": 419
+                    "stars": 419,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1724,12 +2690,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python wrapper -- and more -- for BEDTools (bioinformatics tools for \"genome arithmetic\")",
+                    "homepage": "http://daler.github.io/pybedtools",
                     "id": 667289,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T20:25:02Z",
+                    "open_issues": 15,
                     "owner": "daler",
                     "repo": "pybedtools",
-                    "stars": 330
+                    "stars": 330,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1740,12 +2711,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Blazing-Fast Bioinformatic Operations on Python DataFrames",
+                    "homepage": "http://biodatageeks.org/polars-bio/",
                     "id": 894611596,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T10:12:37Z",
+                    "open_issues": 43,
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": [
+                      "arrow",
+                      "bioinformatics",
+                      "dataframes",
+                      "datafusion",
+                      "genomic-intervals",
+                      "genomic-ranges",
+                      "genomics",
+                      "pandas",
+                      "polars",
+                      "rust-lang"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 },
@@ -1756,12 +2743,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fast Python library for VCF files leveraging Cython for speed.",
+                    "homepage": null,
                     "id": 4008110,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-03-27T09:31:09Z",
+                    "open_issues": 12,
                     "owner": "arq5x",
                     "repo": "cyvcf",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
                 }
@@ -1784,12 +2776,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A versatile pairwise aligner for genomic and spliced nucleotide sequences",
+                "homepage": "https://lh3.github.io/minimap2",
                 "id": 97612481,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-19T22:40:40Z",
+                "open_issues": 75,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2242
+                "stars": 2242,
+                "topics": [
+                  "bioinformatics",
+                  "genomics",
+                  "sequence-alignment",
+                  "spliced-alignment"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1800,12 +2802,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPAdes Genome Assembler",
+                "homepage": "http://ablab.github.io/spades/",
                 "id": 60187186,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-16T10:47:36Z",
+                "open_issues": 303,
                 "owner": "ablab",
                 "repo": "spades",
-                "stars": 956
+                "stars": 956,
+                "topics": [
+                  "genome-assembly",
+                  "illumina",
+                  "metagenome-assembly",
+                  "next-generation-sequencing",
+                  "sequence-assembler",
+                  "sequencing",
+                  "transcriptome-assembly"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1816,12 +2831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SKESA assembler",
+                "homepage": null,
                 "id": 140623405,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-11T14:36:11Z",
+                "open_issues": 22,
                 "owner": "ncbi",
                 "repo": "SKESA",
-                "stars": 127
+                "stars": 127,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -1839,12 +2859,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: :aquarius: Rapid prokaryotic genome annotation",
+                "homepage": null,
                 "id": 18129856,
                 "language": "Perl",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-06T22:28:46Z",
+                "open_issues": 244,
                 "owner": "tseemann",
                 "repo": "prokka",
-                "stars": 993
+                "stars": 993,
+                "topics": [
+                  "bacterial-genomes",
+                  "functional-assignment",
+                  "gene-finding",
+                  "genome-annotation"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1855,12 +2885,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rapid & standardized annotation of bacterial genomes, MAGs & plasmids",
+                "homepage": null,
                 "id": 234191178,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-07T06:57:00Z",
+                "open_issues": 28,
                 "owner": "oschwengers",
                 "repo": "bakta",
-                "stars": 670
+                "stars": 670,
+                "topics": [
+                  "annotation",
+                  "bacteria",
+                  "bacterial-genomes",
+                  "bioinformatics",
+                  "genome-annotation",
+                  "mag",
+                  "metagenome-assembled-genomes",
+                  "microbial-genomics",
+                  "plasmids"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -1884,12 +2929,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "De novo assembler for single molecule sequencing reads using repeat graphs",
+                "homepage": null,
                 "id": 54156538,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-03T20:56:14Z",
+                "open_issues": 18,
                 "owner": "mikolmogorov",
                 "repo": "Flye",
-                "stars": 950
+                "stars": 950,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1900,12 +2950,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hifiasm: a haplotype-resolved assembler for accurate Hifi reads ",
+                "homepage": null,
                 "id": 185860172,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-31T03:23:22Z",
+                "open_issues": 618,
                 "owner": "chhylp123",
                 "repo": "hifiasm",
-                "stars": 808
+                "stars": 808,
+                "topics": [
+                  "bioinformatics",
+                  "denovo-assembly",
+                  "genomics",
+                  "hifi-read",
+                  "pacbio"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1916,12 +2977,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A single molecule sequence assembler for genomes large and small.",
+                "homepage": "http://canu.readthedocs.io/",
                 "id": 41131628,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-06-18T13:43:26Z",
+                "open_issues": 5,
                 "owner": "marbl",
                 "repo": "canu",
-                "stars": 708
+                "stars": 708,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1932,12 +2998,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redbean: A fuzzy Bruijn graph approach to long noisy reads assembly",
+                "homepage": null,
                 "id": 105260074,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-27T07:41:16Z",
+                "open_issues": 42,
                 "owner": "ruanjue",
                 "repo": "wtdbg2",
-                "stars": 531
+                "stars": 531,
+                "topics": [
+                  "alignment",
+                  "assembly",
+                  "nanopore",
+                  "pacbio"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -1961,12 +3037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations ",
+                "homepage": "https://igv.org",
                 "id": 3416578,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-06T22:23:50Z",
+                "open_issues": 198,
                 "owner": "igvteam",
                 "repo": "igv",
-                "stars": 757
+                "stars": 757,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1977,12 +3058,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔬A library of JavaScript components to represent biological data",
+                "homepage": "http://biojs.net/",
                 "id": 11845905,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-11T22:47:13Z",
+                "open_issues": 57,
                 "owner": "biojs",
                 "repo": "biojs",
-                "stars": 505
+                "stars": 505,
+                "topics": [
+                  "biojs",
+                  "biology",
+                  "javascript",
+                  "visualisation"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -1993,12 +3084,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JBrowse 1, a full-featured genome browser built with JavaScript and HTML5. For JBrowse 2, see https://github.com/GMOD/jbrowse-components.",
+                "homepage": "http://jbrowse.org",
                 "id": 108695,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-16T16:59:37Z",
+                "open_issues": 158,
                 "owner": "GMOD",
                 "repo": "jbrowse",
-                "stars": 473
+                "stars": 473,
+                "topics": [
+                  "bioinformatics",
+                  "biology",
+                  "genome-annotation",
+                  "genome-browser",
+                  "genomics",
+                  "protein-annotation"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2009,12 +3112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive in-browser track viewer",
+                "homepage": null,
                 "id": 29933736,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-26T07:26:27Z",
+                "open_issues": 83,
                 "owner": "hammerlab",
                 "repo": "pileup.js",
-                "stars": 282
+                "stars": 282,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2025,12 +3133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive web-based genome browser.",
+                "homepage": "http://www.biodalliance.org/",
                 "id": 751927,
                 "language": "JavaScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-08-28T20:49:43Z",
+                "open_issues": 68,
                 "owner": "dasmoth",
                 "repo": "dalliance",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2041,12 +3154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML5 canvas genomic graphics library",
+                "homepage": "http://chmille4.github.com/Scribl/",
                 "id": 1162367,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-05-06T14:58:17Z",
+                "open_issues": 15,
                 "owner": "chmille4",
                 "repo": "Scribl",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2057,12 +3175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Horizon chart js library for DNA data.",
+                "homepage": "http://drio.github.io/dnaism/",
                 "id": 15679024,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2016-04-30T00:13:21Z",
+                "open_issues": 0,
                 "owner": "drio",
                 "repo": "dnaism",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2073,12 +3196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexible circular visualization of genome-associated data with BioPerl and SVG.",
+                "homepage": null,
                 "id": 12818558,
                 "language": "Perl",
+                "license": "NOASSERTION",
                 "last_commit": "2019-06-18T21:18:18Z",
+                "open_issues": 19,
                 "owner": "jonathancrabtree",
                 "repo": "Circleator",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2089,12 +3217,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📈 DNA Sequence Visualization for Humans",
+                "homepage": "https://squiggle.readthedocs.io",
                 "id": 139665471,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-10T06:38:33Z",
+                "open_issues": 7,
                 "owner": "IQTLabs",
                 "repo": "squiggle",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "dna",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2105,12 +3241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SVG based genome viewer written in javascript using D3",
+                "homepage": null,
                 "id": 14187446,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2015-07-12T02:25:55Z",
+                "open_issues": 1,
                 "owner": "lairdm",
                 "repo": "islandplot",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2121,12 +3262,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pathogen-Host Analysis Tool - A modern Next-Generation Sequencing (NGS) analysis platform",
+                "homepage": "https://chgibb.github.io/PHATDocs",
                 "id": 70605279,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-12T22:23:42Z",
+                "open_issues": 76,
                 "owner": "chgibb",
                 "repo": "PHAT",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "alignment",
+                  "analysis",
+                  "bam",
+                  "bam-files",
+                  "bioinformatics",
+                  "bioinformatics-analysis",
+                  "bioinformatics-tool",
+                  "circos",
+                  "circos-graphs",
+                  "circos-plot",
+                  "dna",
+                  "electron",
+                  "host",
+                  "next-generation-sequencing",
+                  "ngs",
+                  "pathogen",
+                  "phat",
+                  "quality-control",
+                  "snps",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -2144,12 +3311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mount_fuji: Fuji plot—a circos representation of multiple GWAS results— :mount_fuji:",
+                "homepage": "https://www.nature.com/articles/s41588-018-0047-6",
                 "id": 121013152,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-29T17:23:40Z",
+                "open_issues": 0,
                 "owner": "mkanai",
                 "repo": "fujiplot",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2160,12 +3332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Circos is a software package for visualizing data and information. It visualizes data in a circular layout — this makes Circos ideal for exploring relationships between objects or positions.",
+                "homepage": "http://mkweb.bcgsc.ca/circos/",
                 "id": 985241,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2018-10-29T23:34:41Z",
+                "open_issues": 4,
                 "owner": "vigsterkr",
                 "repo": "circos",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -2189,12 +3366,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":microscope: Path to a free self-taught education in Bioinformatics!",
+                "homepage": null,
                 "id": 61673420,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-08T00:22:09Z",
+                "open_issues": 2,
                 "owner": "ossu",
                 "repo": "bioinformatics",
-                "stars": 7085
+                "stars": 7085,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -2212,12 +3394,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of research papers for AI-based protein design",
+                "homepage": null,
                 "id": 562813245,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-13T05:37:22Z",
+                "open_issues": 0,
                 "owner": "opendilab",
                 "repo": "awesome-AI-based-protein-design",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "artificial-intelligence",
+                  "awesome",
+                  "awesome-list",
+                  "protein",
+                  "protein-structure"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2228,12 +3421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alternative splicing resource",
+                "homepage": null,
                 "id": 127487529,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-03-31T20:32:11Z",
+                "open_issues": 0,
                 "owner": "HussainAther",
                 "repo": "awesome-alternative-splicing",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -2251,12 +3449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation.",
+                "homepage": null,
                 "id": 22481024,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-31T18:45:10Z",
+                "open_issues": 6,
                 "owner": "griffithlab",
                 "repo": "rnaseq_tutorial",
-                "stars": 1435
+                "stars": 1435,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             },
@@ -2267,12 +3470,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RNAseq analysis notes from Ming Tang",
+                "homepage": null,
                 "id": 41445918,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-15T03:18:18Z",
+                "open_issues": 1,
                 "owner": "crazyhottommy",
                 "repo": "RNA-seq-analysis",
-                "stars": 1097
+                "stars": 1097,
+                "topics": [
+                  "rna-seq",
+                  "snakemake"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -2290,12 +3501,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChIP-seq analysis notes from Ming Tang",
+                "homepage": null,
                 "id": 37345937,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-05T00:55:46Z",
+                "open_issues": 0,
                 "owner": "crazyhottommy",
                 "repo": "ChIP-seq-analysis",
-                "stars": 854
+                "stars": 854,
+                "topics": [
+                  "chip-seq",
+                  "histone-modifications",
+                  "transcription-factor-binding"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -2313,12 +3533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Leek group guide to genomics papers",
+                "homepage": null,
                 "id": 24905212,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-11-05T18:49:23Z",
+                "open_issues": 3,
                 "owner": "jtleek",
                 "repo": "genomicspapers",
-                "stars": 505
+                "stars": 505,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
             }
@@ -2332,15 +3557,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:24:02.408Z",
+    "last_updated": "2026-08-29T04:21:31.745Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Bioinformatics libraries and software.",
+      "homepage": null,
       "id": 23372071,
       "language": null,
+      "license": null,
       "last_commit": "2026-04-07T14:29:34Z",
+      "open_issues": 35,
       "owner": "danielecook",
       "repo": "Awesome-Bioinformatics",
-      "stars": 4261
+      "stars": 4261,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bioinformatics"
+      ]
     },
     "original_repository_sha": "86812b12322b1da5df821a2af2649607462633b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-Bioinformatics",
