@@ -19,7 +19,7 @@
             "open_issues": 610,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5177,
+            "stars": 5179,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -110,7 +110,7 @@
             "language": "Java",
             "license": "LGPL-2.1",
             "last_commit": "2026-08-28T16:48:42Z",
-            "open_issues": 71,
+            "open_issues": 75,
             "owner": "biojava",
             "repo": "biojava",
             "stars": 631,
@@ -144,7 +144,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-25T13:59:56Z",
-            "open_issues": 33,
+            "open_issues": 35,
             "owner": "seqan",
             "repo": "seqan3",
             "stars": 461,
@@ -334,7 +334,7 @@
                 "open_issues": 40,
                 "owner": "wireservice",
                 "repo": "csvkit",
-                "stars": 6410,
+                "stars": 6411,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -641,7 +641,7 @@
                 "id": 9052236,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T14:27:00Z",
+                "last_commit": "2026-08-30T04:40:15Z",
                 "open_issues": 433,
                 "owner": "nextflow-io",
                 "repo": "nextflow",
@@ -932,7 +932,7 @@
                 "open_issues": 34,
                 "owner": "pditommaso",
                 "repo": "awesome-pipeline",
-                "stars": 6625,
+                "stars": 6624,
                 "topics": [
                   "awesome-list",
                   "workflow"
@@ -1046,7 +1046,7 @@
                 "open_issues": 4,
                 "owner": "fmalmeida",
                 "repo": "ngs-preprocess",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "bax2bam",
                   "bioinformatics",
@@ -1153,7 +1153,7 @@
                 "open_issues": 69,
                 "owner": "lh3",
                 "repo": "seqtk",
-                "stars": 1559,
+                "stars": 1558,
                 "topics": [
                   "bioinformatics",
                   "sequence-analysis"
@@ -1210,7 +1210,7 @@
                 "open_issues": 30,
                 "owner": "s-andrews",
                 "repo": "FastQC",
-                "stars": 614,
+                "stars": 615,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -1776,7 +1776,7 @@
                 "id": 11368595,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T14:05:23Z",
+                "last_commit": "2026-08-30T15:43:39Z",
                 "open_issues": 343,
                 "owner": "samtools",
                 "repo": "bcftools",
@@ -2013,7 +2013,7 @@
                 "open_issues": 49,
                 "owner": "brentp",
                 "repo": "mosdepth",
-                "stars": 871,
+                "stars": 872,
                 "topics": [
                   "coverage",
                   "depth",
@@ -2044,7 +2044,7 @@
                 "open_issues": 72,
                 "owner": "pezmaster31",
                 "repo": "bamtools",
-                "stars": 433,
+                "stars": 432,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -2181,7 +2181,7 @@
                 "id": 11368595,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T14:05:23Z",
+                "last_commit": "2026-08-30T15:43:39Z",
                 "open_issues": 343,
                 "owner": "samtools",
                 "repo": "bcftools",
@@ -2206,7 +2206,7 @@
                 "open_issues": 23,
                 "owner": "vcflib",
                 "repo": "vcflib",
-                "stars": 684,
+                "stars": 683,
                 "topics": [
                   "genomics",
                   "genotyping",
@@ -2305,10 +2305,10 @@
                 "language": "HTML",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-27T12:00:24Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "NBISweden",
                 "repo": "AGAT",
-                "stars": 585,
+                "stars": 584,
                 "topics": [
                   "agat",
                   "gff",
@@ -2563,7 +2563,7 @@
                     "open_issues": 524,
                     "owner": "scverse",
                     "repo": "scanpy",
-                    "stars": 2549,
+                    "stars": 2551,
                     "topics": [
                       "anndata",
                       "bioinformatics",
@@ -2651,7 +2651,7 @@
                     "open_issues": 49,
                     "owner": "brentp",
                     "repo": "cyvcf2",
-                    "stars": 446,
+                    "stars": 447,
                     "topics": [
                       "bioinformatics",
                       "cython",
@@ -3458,7 +3458,7 @@
                 "open_issues": 6,
                 "owner": "griffithlab",
                 "repo": "rnaseq_tutorial",
-                "stars": 1435,
+                "stars": 1436,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -3557,7 +3557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:11:09.063Z",
+    "last_updated": "2026-08-30T19:02:11.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bioinformatics libraries and software.",
