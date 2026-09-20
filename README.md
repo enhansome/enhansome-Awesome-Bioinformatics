@@ -118,8 +118,8 @@ Package suites gather software packages and installation tools for specific lang
 
 ### Workflow Managers
 
-* **[Nextflow](https://github.com/nextflow-io/nextflow) ⭐ 3,488 | 🐛 416 | 🌐 Groovy | 📅 2026-09-19 (recommended)** - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner. \[ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29412134) | [web](http://nextflow.io) ]
-* **[Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language) ⭐ 1,480 | 🐛 241 | 🌐 Common Workflow Language | 📅 2026-08-15** - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments. \[ [web](http://www.commonwl.org) ]
+* **[Nextflow](https://github.com/nextflow-io/nextflow) ⭐ 3,489 | 🐛 417 | 🌐 Groovy | 📅 2026-09-20 (recommended)** - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner. \[ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29412134) | [web](http://nextflow.io) ]
+* **[Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language) ⭐ 1,480 | 🐛 241 | 🌐 Common Workflow Language | 📅 2026-09-20** - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments. \[ [web](http://www.commonwl.org) ]
 * **[SciPipe](https://github.com/scipipe/scipipe) ⭐ 1,109 | 🐛 57 | 🌐 Go | 📅 2024-08-14** - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
 * **[Cromwell](https://github.com/broadinstitute/cromwell) ⭐ 1,082 | 🐛 815 | 🌐 Scala | 📅 2026-09-15** - A Workflow Management System geared towards scientific workflows. \[ [web](https://cromwell.readthedocs.io) ]
 * **[redun](https://github.com/insitro/redun) ⭐ 602 | 🐛 34 | 🌐 Python | 📅 2026-07-17** - A python-based workflow manager.
@@ -133,7 +133,7 @@ Package suites gather software packages and installation tools for specific lang
 
 ### Pipelines
 
-* **[Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,624 | 🐛 33 | 📅 2026-09-19** - A list of pipeline resources.
+* **[Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,627 | 🐛 33 | 📅 2026-09-20** - A list of pipeline resources.
 * **[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) ⭐ 1,030 | 🐛 133 | 🌐 Python | 📅 2024-08-24** - Batteries included genomic analysis pipeline for variant and RNA-Seq analysis, structural variant calling, annotation, and prediction. \[ [web](https://bcbio-nextgen.readthedocs.io) ]
 * **[Bactopia](https://github.com/bactopia/bactopia/) ⭐ 522 | 🐛 66 | 🌐 Nextflow | 📅 2026-08-05** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. \[ [web](https://bactopia.github.io/) ]
 * **[Bacannot](https://github.com/fmalmeida/bacannot) ⭐ 110 | 🐛 10 | 🌐 Nextflow | 📅 2026-01-22** - A generic but comprehensive bacterial annotation pipeline, built with Nextflow, with nice graphical options for investigating results. \[ [web](https://bacannot.readthedocs.io/en/latest/?badge=latest) ]
@@ -146,7 +146,7 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 
 * **[SeqKit](https://github.com/shenwei356/seqkit) ⭐ 1,593 | 🐛 9 | 🌐 Go | 📅 2026-09-19** - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27706213) | [web](https://bioinf.shenwei.me/seqkit) ]
 * **[Seqtk](https://github.com/lh3/seqtk) ⭐ 1,562 | 🐛 69 | 🌐 C | 📅 2025-06-01** - Toolkit for processing sequences in FASTA/Q formats.
-* **[MultiQC](https://github.com/ewels/MultiQC) ⭐ 1,492 | 🐛 276 | 🌐 JavaScript | 📅 2026-09-15** - Aggregate results from bioinformatics analyses across many samples into a single report. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27312411) | [web](http://multiqc.info) ]
+* **[MultiQC](https://github.com/ewels/MultiQC) ⭐ 1,492 | 🐛 279 | 🌐 JavaScript | 📅 2026-09-15** - Aggregate results from bioinformatics analyses across many samples into a single report. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27312411) | [web](http://multiqc.info) ]
 * **[FastQC](https://github.com/s-andrews/FastQC) ⭐ 617 | 🐛 31 | 🌐 Java | 📅 2026-08-31** - A quality control tool for high throughput sequence data. \[ [web](http://www.bioinformatics.babraham.ac.uk/projects/fastqc) ]
 * **[AfterQC](https://github.com/OpenGene/AfterQC) ⭐ 213 | 🐛 28 | 🌐 Python | 📅 2020-05-14** - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. \[ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28361673) ]
 * **[Fastx Tookit](https://github.com/agordon/fastx_toolkit) ⭐ 203 | 🐛 12 | 🌐 C | 📅 2022-03-04** - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities. \[ [web](http://hannonlab.cshl.edu/fastx_toolkit) ]
@@ -159,7 +159,7 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 
 The following items allow for scalable genomic analysis by introducing specialized databases.
 
-* **[Hail](https://github.com/hail-is/hail) ⭐ 1,072 | 🐛 371 | 🌐 Python | 📅 2026-09-18** - Scalable genomic analysis.
+* **[Hail](https://github.com/hail-is/hail) ⭐ 1,073 | 🐛 371 | 🌐 Python | 📅 2026-09-18** - Scalable genomic analysis.
 * **[GLNexus](https://github.com/dnanexus-rnd/GLnexus) ⭐ 188 | 🐛 103 | 🌐 C++ | 📅 2024-04-12** - Scalable gVCF merging and joint variant calling for population sequencing projects. \[ [paper-2018](https://www.biorxiv.org/content/10.1101/343970v1.abstract) ]
 
 ### Sequence Alignment
@@ -167,11 +167,11 @@ The following items allow for scalable genomic analysis by introducing specializ
 #### Pairwise
 
 * **[BWA](https://github.com/lh3/bwa) ⭐ 1,767 | 🐛 100 | 🌐 C | 📅 2026-08-07** - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
-* **[DIAMOND](https://github.com/bbuchfink/diamond) ⭐ 1,322 | 🐛 216 | 🌐 C++ | 📅 2026-09-14** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
-* **[Bowtie 2](https://github.com/BenLangmead/bowtie2) ⭐ 811 | 🐛 190 | 🌐 C++ | 📅 2026-09-15** - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. \[ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/22388286) | [web](http://bowtie-bio.sourceforge.net/bowtie2) ]
+* **[DIAMOND](https://github.com/bbuchfink/diamond) ⭐ 1,322 | 🐛 216 | 🌐 C++ | 📅 2026-09-20** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
+* **[Bowtie 2](https://github.com/BenLangmead/bowtie2) ⭐ 812 | 🐛 190 | 🌐 C++ | 📅 2026-09-15** - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. \[ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/22388286) | [web](http://bowtie-bio.sourceforge.net/bowtie2) ]
 * **[MUMmer](https://github.com/mummer4/mummer) ⭐ 575 | 🐛 167 | 🌐 C++ | 📅 2025-02-04** -  A system for rapidly aligning entire genomes, whether in complete or draft form. \[ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
 * **[Parasail](https://github.com/jeffdaily/parasail) ⭐ 289 | 🐛 34 | 🌐 C | 📅 2025-08-27** - SIMD C library for global, semi-global, and local pairwise sequence alignments \[ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0930-z) ]
-* **[WFA](https://github.com/smarco/WFA) ⭐ 228 | 🐛 19 | 🌐 C | 📅 2026-08-07** - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment \[ [paper-2020](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa777/5904262) ]
+* **[WFA](https://github.com/smarco/WFA) ⭐ 228 | 🐛 26 | 🌐 C | 📅 2026-08-07** - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment \[ [paper-2020](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa777/5904262) ]
 * **[BWA-FastAlign](https://github.com/zzhofict/BWA-FastAlign) ⭐ 29 | 🐛 7 | 🌐 C | 📅 2026-02-22** - BWA-MEM drop-in replacement: 2-3x faster, 2-5x cheaper, 100% identical output on standard CPUs. \[ [paper-2026](https://dl.acm.org/doi/10.1145/3774934.3786421) ]
 
 #### Multiple Sequence Alignment
@@ -222,7 +222,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 ### GFF BED File Utilities
 
-* **[Bedtools2](https://github.com/arq5x/bedtools2) ⭐ 1,048 | 🐛 287 | 🌐 C | 📅 2026-06-10** - A Swiss Army knife for genome arithmetic. \[ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20110278) | [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25199790) | [web](https://bedtools.readthedocs.io) ]
+* **[Bedtools2](https://github.com/arq5x/bedtools2) ⭐ 1,049 | 🐛 287 | 🌐 C | 📅 2026-06-10** - A Swiss Army knife for genome arithmetic. \[ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20110278) | [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25199790) | [web](https://bedtools.readthedocs.io) ]
 * **[AGAT](https://github.com/NBISweden/AGAT) ⭐ 588 | 🐛 27 | 🌐 HTML | 📅 2026-09-07** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
 * **[gffutils](https://github.com/daler/gffutils) ⭐ 322 | 🐛 18 | 🌐 Python | 📅 2026-03-31** - GFF and GTF file manipulation and interconversion. \[ [web](http://daler.github.io/gffutils) ]
 * **[BEDOPS](https://bedops.readthedocs.io/en/latest/index.html)** - The fast, highly scalable and easily-parallelizable genome analysis toolkit. \[ [paper-2012](https://academic.oup.com/bioinformatics/article/28/14/1919/218826) ]
@@ -249,13 +249,13 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 #### Tools
 
-* **[Scanpy](https://github.com/scverse/scanpy) ⭐ 2,562 | 🐛 539 | 🌐 Python | 📅 2026-09-17** - Scalable toolkit for analyzing single-cell gene expression data, including preprocessing, visualization, clustering, and trajectory inference. \[ [paper-2018](https://doi.org/10.1186/s13059-017-1382-0) | [web](https://scanpy.readthedocs.io) ]
-* **[pysam](https://github.com/pysam-developers/pysam) ⭐ 910 | 🐛 265 | 🌐 Cython | 📅 2026-09-07** - Python wrapper for [samtools](https://github.com/samtools/samtools) ⭐ 1,956 | 🐛 206 | 🌐 C | 📅 2026-09-10. \[ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
+* **[Scanpy](https://github.com/scverse/scanpy) ⭐ 2,563 | 🐛 539 | 🌐 Python | 📅 2026-09-17** - Scalable toolkit for analyzing single-cell gene expression data, including preprocessing, visualization, clustering, and trajectory inference. \[ [paper-2018](https://doi.org/10.1186/s13059-017-1382-0) | [web](https://scanpy.readthedocs.io) ]
+* **[pysam](https://github.com/pysam-developers/pysam) ⭐ 910 | 🐛 265 | 🌐 Cython | 📅 2026-09-07** - Python wrapper for [samtools](https://github.com/samtools/samtools) ⭐ 1,957 | 🐛 206 | 🌐 C | 📅 2026-09-10. \[ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
 * **[pyfaidx](https://github.com/mdshw5/pyfaidx) ⭐ 489 | 🐛 3 | 🌐 Python | 📅 2026-09-03** - Pythonic access to FASTA files.
 * **[cyvcf2](https://github.com/brentp/cyvcf2) ⭐ 449 | 🐛 50 | 🌐 Cython | 📅 2026-09-10** - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. \[ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28165109) | [web](https://brentp.github.io/cyvcf2) ]
 * **[pyVCF](https://github.com/jamescasbon/PyVCF) ⭐ 419 | 🐛 100 | 🌐 Python | 📅 2023-09-22** - A VCF Parser for Python. \[ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
 * **[pyBedTools](https://github.com/daler/pybedtools) ⭐ 331 | 🐛 15 | 🌐 Python | 📅 2026-08-26** - Python wrapper for [bedtools](https://github.com/arq5x/bedtools) ⭐ 143 | 🐛 74 | 🌐 C++ | 📅 2021-05-28. \[ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21949271) | [web](http://daler.github.io/pybedtools) ]
-* **[polars-bio](https://github.com/biodatageeks/polars-bio) ⭐ 200 | 🐛 50 | 🌐 Python | 📅 2026-09-16** - Python library for blazing-fast genomic interval operations and genomic file formats I/O on Polars DataFrames \[ [paper-2025](https://doi.org/10.1093/bioinformatics/btaf640) | \[ [web](https://biodatageeks.org/polars-bio/) ] ]
+* **[polars-bio](https://github.com/biodatageeks/polars-bio) ⭐ 200 | 🐛 48 | 🌐 Python | 📅 2026-09-20** - Python library for blazing-fast genomic interval operations and genomic file formats I/O on Polars DataFrames \[ [paper-2025](https://doi.org/10.1093/bioinformatics/btaf640) | \[ [web](https://biodatageeks.org/polars-bio/) ] ]
 * **[cyvcf](https://github.com/arq5x/cyvcf) ⭐ 53 | 🐛 12 | 🌐 Python | 📅 2018-03-27** - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) ⭐ 419 | 🐛 100 | 🌐 Python | 📅 2023-09-22 using Cython for speed.
 
 ### Assembly
@@ -275,7 +275,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 ### Long-read Assembly
 
 * **[flye](https://github.com/fenderglass/Flye) ⭐ 950 | 🐛 25 | 🌐 C | 📅 2026-04-03** - De novo assembler for single molecule sequencing reads using repeat graphs.
-* **[hifiasm](https://github.com/chhylp123/hifiasm) ⭐ 814 | 🐛 618 | 🌐 C++ | 📅 2026-05-31** - A haplotype-resolved assembler for accurate Hifi reads.
+* **[hifiasm](https://github.com/chhylp123/hifiasm) ⭐ 814 | 🐛 619 | 🌐 C++ | 📅 2026-05-31** - A haplotype-resolved assembler for accurate Hifi reads.
 * **[canu](https://github.com/marbl/canu) ⭐ 709 | 🐛 5 | 🌐 C++ | 📅 2026-09-10** - A single molecule sequence assembler for genomes large and small.
 * **[wtdbg2](https://github.com/ruanjue/wtdbg2) ⭐ 532 | 🐛 42 | 🌐 C | 📅 2023-09-27** -  A fuzzy Bruijn graph approach to long noisy reads assembly
 
@@ -341,7 +341,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ### RNA-Seq
 
-* [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial) ⭐ 1,436 | 🐛 6 | 🌐 R | 📅 2023-05-31 - Educational resource on performing RNA-seq analysis in the cloud using Amazon AWS cloud services. Topics include preparing the data, preprocessing, differential expression, isoform discovery, data visualization, and interpretation.
+* [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial) ⭐ 1,437 | 🐛 6 | 🌐 R | 📅 2023-05-31 - Educational resource on performing RNA-seq analysis in the cloud using Amazon AWS cloud services. Topics include preparing the data, preprocessing, differential expression, isoform discovery, data visualization, and interpretation.
 * [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) ⭐ 1,097 | 🐛 1 | 🌐 Python | 📅 2021-11-15 - [@crazyhottommy](https://github.com/crazyhottommy)'s notes on various steps and considerations when doing RNA-seq analysis.
 * [Review papers on RNA-seq (Biostars)](https://www.biostars.org/p/52152/) - Includes lots of seminal papers on RNA-seq and analysis methods.
 * [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia provides an awesome overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment.
@@ -392,4 +392,4 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
