@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T09:39:30Z",
-            "open_issues": 626,
+            "open_issues": 627,
             "owner": "biopython",
             "repo": "biopython",
             "stars": 5218,
@@ -47,7 +47,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-02T13:40:13Z",
-            "open_issues": 107,
+            "open_issues": 109,
             "owner": "rust-bio",
             "repo": "rust-bio",
             "stars": 1841,
@@ -355,7 +355,7 @@
                 "open_issues": 5,
                 "owner": "stephenturner",
                 "repo": "oneliners",
-                "stars": 2030,
+                "stars": 2029,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -376,7 +376,7 @@
                 "open_issues": 1,
                 "owner": "shenwei356",
                 "repo": "csvtk",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": [
                   "bioinformatics",
                   "command-line",
@@ -641,11 +641,11 @@
                 "id": 9052236,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:58:37Z",
-                "open_issues": 413,
+                "last_commit": "2026-10-03T14:22:24Z",
+                "open_issues": 412,
                 "owner": "nextflow-io",
                 "repo": "nextflow",
-                "stars": 3497,
+                "stars": 3496,
                 "topics": [
                   "aws",
                   "bioinformatics",
@@ -1153,7 +1153,7 @@
                 "open_issues": 69,
                 "owner": "lh3",
                 "repo": "seqtk",
-                "stars": 1563,
+                "stars": 1564,
                 "topics": [
                   "bioinformatics",
                   "sequence-analysis"
@@ -1576,7 +1576,7 @@
                     "open_issues": 18,
                     "owner": "smarco",
                     "repo": "WFA2-lib",
-                    "stars": 228,
+                    "stars": 229,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:24:02.408Z"
@@ -1746,7 +1746,7 @@
                 "open_issues": 6,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3813,
+                "stars": 3814,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -2287,7 +2287,7 @@
                 "open_issues": 289,
                 "owner": "arq5x",
                 "repo": "bedtools2",
-                "stars": 1051,
+                "stars": 1052,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -2442,7 +2442,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "Genomic variant annotation and functional effect prediction",
                 "homepage": null,
                 "id": 16422517,
                 "language": "Java",
@@ -2720,7 +2720,7 @@
                     "open_issues": 47,
                     "owner": "biodatageeks",
                     "repo": "polars-bio",
-                    "stars": 201,
+                    "stars": 202,
                     "topics": [
                       "arrow",
                       "bioinformatics",
@@ -2894,7 +2894,7 @@
                 "open_issues": 28,
                 "owner": "oschwengers",
                 "repo": "bakta",
-                "stars": 681,
+                "stars": 682,
                 "topics": [
                   "annotation",
                   "bacteria",
@@ -3043,7 +3043,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-09-24T18:10:02Z",
-                "open_issues": 149,
+                "open_issues": 150,
                 "owner": "igvteam",
                 "repo": "igv",
                 "stars": 766,
@@ -3375,7 +3375,7 @@
                 "open_issues": 2,
                 "owner": "ossu",
                 "repo": "bioinformatics",
-                "stars": 7112,
+                "stars": 7115,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -3557,7 +3557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:07.338Z",
+    "last_updated": "2026-10-03T18:59:51.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bioinformatics libraries and software.",
