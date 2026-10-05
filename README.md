@@ -64,9 +64,9 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 Package suites gather software packages and installation tools for specific languages or platforms. We have some for bioinformatics software.
 
-* **[Biopython](https://github.com/biopython/biopython) ⭐ 5,218 | 🐛 628 | 🌐 Python | 📅 2026-10-02** - Freely available tools for biological computing in Python, with included cookbook, packaging and thorough documentation. Part of the [Open Bioinformatics Foundation](http://open-bio.org/). Contains the very useful [Entrez](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) package for API access to the NCBI databases. \[ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19304878) | [web](https://biopython.org) ]
+* **[Biopython](https://github.com/biopython/biopython) ⭐ 5,219 | 🐛 630 | 🌐 Python | 📅 2026-10-05** - Freely available tools for biological computing in Python, with included cookbook, packaging and thorough documentation. Part of the [Open Bioinformatics Foundation](http://open-bio.org/). Contains the very useful [Entrez](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) package for API access to the NCBI databases. \[ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19304878) | [web](https://biopython.org) ]
 
-* **[Rust-Bio](https://github.com/rust-bio/rust-bio) ⭐ 1,841 | 🐛 108 | 🌐 Rust | 📅 2026-10-04** - Rust implementations of algorithms and data structures useful for bioinformatics. \[ [paper-2016](http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv573.short?rss=1) ]
+* **[Rust-Bio](https://github.com/rust-bio/rust-bio) ⭐ 1,841 | 🐛 107 | 🌐 Rust | 📅 2026-10-05** - Rust implementations of algorithms and data structures useful for bioinformatics. \[ [paper-2016](http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv573.short?rss=1) ]
 
 * **[(Poly)merase](https://github.com/TimothyStiles/poly) ⭐ 737 | 🐛 33 | 🌐 Go | 📅 2026-08-01** - A Go library and command line utility for engineering organisms.
 
@@ -93,14 +93,14 @@ Package suites gather software packages and installation tools for specific lang
 
 ### Compressing
 
-* **[Genozip](https://github.com/divonlan/genozip) ⭐ 190 | 🐛 0 | 🌐 C | 📅 2026-10-04** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
+* **[Genozip](https://github.com/divonlan/genozip) ⭐ 190 | 🐛 0 | 🌐 C | 📅 2026-10-05** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
 
 ## Data Processing
 
 ### Command Line Utilities
 
 * **[CSVKit](https://github.com/wireservice/csvkit) ⭐ 6,415 | 🐛 47 | 🌐 Python | 📅 2026-09-21** - Utilities for working with CSV/Tab-delimited files. \[ [web](https://csvkit.readthedocs.io/en/latest) ]
-* **[Bioinformatics One Liners](https://github.com/stephenturner/oneliners) ⭐ 2,029 | 🐛 5 | 📅 2023-09-09** - Git repo of useful single line commands.
+* **[Bioinformatics One Liners](https://github.com/stephenturner/oneliners) ⭐ 2,030 | 🐛 5 | 📅 2023-09-09** - Git repo of useful single line commands.
 * **[csvtk](https://github.com/shenwei356/csvtk) ⭐ 1,172 | 🐛 1 | 🌐 Go | 📅 2026-09-24** - Another cross-platform, efficient, practical and pretty CSV/TSV toolkit. \[ [web](https://bioinf.shenwei.me/csvtk) ]
 * **[zindex](https://github.com/mattgodbolt/zindex) ⭐ 658 | 🐛 19 | 🌐 C | 📅 2022-12-30** - Create an index on a compressed text file.
 * **[BioNode](https://github.com/bionode/bionode) ⚠️ Archived** - Modular and universal bioinformatics, Bionode provides pipeable UNIX command line tools and JavaScript APIs for bioinformatics analysis workflows. \[ [web](http://bionode.io) ]
@@ -118,9 +118,9 @@ Package suites gather software packages and installation tools for specific lang
 
 ### Workflow Managers
 
-* **[Nextflow](https://github.com/nextflow-io/nextflow) ⭐ 3,498 | 🐛 414 | 🌐 Groovy | 📅 2026-10-04 (recommended)** - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner. \[ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29412134) | [web](http://nextflow.io) ]
+* **[Nextflow](https://github.com/nextflow-io/nextflow) ⭐ 3,498 | 🐛 413 | 🌐 Groovy | 📅 2026-10-05 (recommended)** - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner. \[ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29412134) | [web](http://nextflow.io) ]
 * **[Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language) ⭐ 1,478 | 🐛 241 | 🌐 Common Workflow Language | 📅 2026-09-20** - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments. \[ [web](http://www.commonwl.org) ]
-* **[SciPipe](https://github.com/scipipe/scipipe) ⭐ 1,110 | 🐛 57 | 🌐 Go | 📅 2024-08-14** - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
+* **[SciPipe](https://github.com/scipipe/scipipe) ⭐ 1,109 | 🐛 57 | 🌐 Go | 📅 2024-08-14** - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
 * **[Cromwell](https://github.com/broadinstitute/cromwell) ⭐ 1,082 | 🐛 815 | 🌐 Scala | 📅 2026-09-15** - A Workflow Management System geared towards scientific workflows. \[ [web](https://cromwell.readthedocs.io) ]
 * **[redun](https://github.com/insitro/redun) ⭐ 603 | 🐛 34 | 🌐 Python | 📅 2026-07-17** - A python-based workflow manager.
 * **[Bpipe](https://github.com/ssadedin/bpipe) ⭐ 241 | 🐛 158 | 🌐 Groovy | 📅 2026-09-19** - A small language for defining pipeline stages and linking them together to make pipelines. \[ [web](http://docs.bpipe.org) ]
@@ -144,10 +144,10 @@ Package suites gather software packages and installation tools for specific lang
 
 Sequence Processing includes tasks such as demultiplexing raw read data, and trimming low quality bases.
 
-* **[SeqKit](https://github.com/shenwei356/seqkit) ⭐ 1,595 | 🐛 8 | 🌐 Go | 📅 2026-09-24** - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27706213) | [web](https://bioinf.shenwei.me/seqkit) ]
+* **[SeqKit](https://github.com/shenwei356/seqkit) ⭐ 1,597 | 🐛 8 | 🌐 Go | 📅 2026-09-24** - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27706213) | [web](https://bioinf.shenwei.me/seqkit) ]
 * **[Seqtk](https://github.com/lh3/seqtk) ⭐ 1,564 | 🐛 69 | 🌐 C | 📅 2025-06-01** - Toolkit for processing sequences in FASTA/Q formats.
 * **[MultiQC](https://github.com/ewels/MultiQC) ⭐ 1,492 | 🐛 295 | 🌐 JavaScript | 📅 2026-10-02** - Aggregate results from bioinformatics analyses across many samples into a single report. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27312411) | [web](http://multiqc.info) ]
-* **[FastQC](https://github.com/s-andrews/FastQC) ⭐ 621 | 🐛 23 | 🌐 Java | 📅 2026-10-02** - A quality control tool for high throughput sequence data. \[ [web](http://www.bioinformatics.babraham.ac.uk/projects/fastqc) ]
+* **[FastQC](https://github.com/s-andrews/FastQC) ⭐ 622 | 🐛 23 | 🌐 Java | 📅 2026-10-02** - A quality control tool for high throughput sequence data. \[ [web](http://www.bioinformatics.babraham.ac.uk/projects/fastqc) ]
 * **[AfterQC](https://github.com/OpenGene/AfterQC) ⭐ 213 | 🐛 28 | 🌐 Python | 📅 2020-05-14** - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. \[ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28361673) ]
 * **[Fastx Tookit](https://github.com/agordon/fastx_toolkit) ⭐ 203 | 🐛 12 | 🌐 C | 📅 2022-03-04** - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities. \[ [web](http://hannonlab.cshl.edu/fastx_toolkit) ]
 * **[SeqFu](https://github.com/telatin/seqfu2) ⭐ 131 | 🐛 0 | 🌐 Nim | 📅 2026-09-27** - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. \[ [paper-2021](https://www.mdpi.com/2306-5354/8/5/59) | [web](https://telatin.github.io/seqfu2/) ]
@@ -159,7 +159,7 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 
 The following items allow for scalable genomic analysis by introducing specialized databases.
 
-* **[Hail](https://github.com/hail-is/hail) ⭐ 1,079 | 🐛 370 | 🌐 Python | 📅 2026-10-02** - Scalable genomic analysis.
+* **[Hail](https://github.com/hail-is/hail) ⭐ 1,080 | 🐛 372 | 🌐 Python | 📅 2026-10-02** - Scalable genomic analysis.
 * **[GLNexus](https://github.com/dnanexus-rnd/GLnexus) ⭐ 190 | 🐛 103 | 🌐 C++ | 📅 2024-04-12** - Scalable gVCF merging and joint variant calling for population sequencing projects. \[ [paper-2018](https://www.biorxiv.org/content/10.1101/343970v1.abstract) ]
 
 ### Sequence Alignment
@@ -180,7 +180,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 #### Clustering
 
-* **[MMseqs2](https://github.com/soedinglab/MMseqs2) ⭐ 2,147 | 🐛 287 | 🌐 C | 📅 2026-09-30** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
+* **[MMseqs2](https://github.com/soedinglab/MMseqs2) ⭐ 2,148 | 🐛 287 | 🌐 C | 📅 2026-09-30** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
 
 ### Quantification
 
@@ -197,7 +197,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 #### Structural variant callers
 
-* **[Delly](https://github.com/dellytools/delly) ⭐ 537 | 🐛 38 | 🌐 C++ | 📅 2026-10-01** - Structural variant discovery by integrated paired-end and split-read analysis. \[ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/22962449) ]
+* **[Delly](https://github.com/dellytools/delly) ⭐ 537 | 🐛 38 | 🌐 C++ | 📅 2026-10-05** - Structural variant discovery by integrated paired-end and split-read analysis. \[ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/22962449) ]
 * **[manta](https://github.com/Illumina/manta) ⚠️ Archived** - Structural variant and indel caller for mapped sequencing data. \[ [paper-2015](https://pubmed.ncbi.nlm.nih.gov/26647377) ]
 * **[lumpy](https://github.com/arq5x/lumpy-sv) ⭐ 346 | 🐛 197 | 🌐 C | 📅 2026-02-22** - lumpy: a general probabilistic framework for structural variant discovery. \[ [paper-2014](https://link.springer.com/article/10.1186/gb-2014-15-6-r84) ]
 * **[gridss](https://github.com/PapenfussLab/gridss) ⭐ 285 | 🐛 95 | 🌐 Java | 📅 2025-05-21** - GRIDSS: the Genomic Rearrangement IDentification Software Suite. \[ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29097403) ]
@@ -205,7 +205,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 ### BAM File Utilities
 
-* **[mosdepth](https://github.com/brentp/mosdepth) ⭐ 877 | 🐛 50 | 🌐 Nim | 📅 2026-05-02** - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing. \[ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29096012/) ]
+* **[mosdepth](https://github.com/brentp/mosdepth) ⭐ 878 | 🐛 50 | 🌐 Nim | 📅 2026-05-02** - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing. \[ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29096012/) ]
 * **[Bamtools](https://github.com/pezmaster31/bamtools) ⭐ 432 | 🐛 72 | 🌐 C++ | 📅 2025-05-18** - Collection of tools for working with BAM files. \[ [paper-2011](https://academic.oup.com/bioinformatics/article/27/12/1691/255399) ]
 * **[Somalier](https://github.com/brentp/somalier) ⭐ 338 | 🐛 63 | 🌐 Nim | 📅 2026-09-30** - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. \[ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
 * **[Telseq](https://github.com/zd1/telseq) ⭐ 78 | 🐛 15 | 🌐 C++ | 📅 2018-10-24** - Telseq is a tool for estimating telomere length from whole genome sequence data. \[ [paper-2014](https://academic.oup.com/nar/article/42/9/e75/1249448) ]
@@ -223,7 +223,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 ### GFF BED File Utilities
 
 * **[Bedtools2](https://github.com/arq5x/bedtools2) ⭐ 1,053 | 🐛 289 | 🌐 C | 📅 2026-06-10** - A Swiss Army knife for genome arithmetic. \[ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20110278) | [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25199790) | [web](https://bedtools.readthedocs.io) ]
-* **[AGAT](https://github.com/NBISweden/AGAT) ⭐ 588 | 🐛 27 | 🌐 HTML | 📅 2026-09-07** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
+* **[AGAT](https://github.com/NBISweden/AGAT) ⭐ 589 | 🐛 27 | 🌐 HTML | 📅 2026-09-07** - Suite of tools to handle gene annotations in any GTF/GFF format. \[ [web](https://agat.readthedocs.io/en/latest/?badge=latest) ]
 * **[gffutils](https://github.com/daler/gffutils) ⭐ 321 | 🐛 18 | 🌐 Python | 📅 2026-03-31** - GFF and GTF file manipulation and interconversion. \[ [web](http://daler.github.io/gffutils) ]
 * **[BEDOPS](https://bedops.readthedocs.io/en/latest/index.html)** - The fast, highly scalable and easily-parallelizable genome analysis toolkit. \[ [paper-2012](https://academic.oup.com/bioinformatics/article/28/14/1919/218826) ]
 
@@ -234,7 +234,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 ### Variant Prediction/Annotation
 
-* **[SIFT](https://github.com/teamdfir/sift) ⭐ 551 | 🐛 20 | 📅 2024-02-14** - Predicts whether an amino acid substitution affects protein function. \[ [paper-2003](https://pubmed.ncbi.nlm.nih.gov/12824425) | [web](http://sift.jcvi.org) ]
+* **[SIFT](https://github.com/teamdfir/sift) ⭐ 550 | 🐛 20 | 📅 2024-02-14** - Predicts whether an amino acid substitution affects protein function. \[ [paper-2003](https://pubmed.ncbi.nlm.nih.gov/12824425) | [web](http://sift.jcvi.org) ]
 * **[SnpEff](https://github.com/pcingola/SnpEff) ⭐ 313 | 🐛 19 | 🌐 Java | 📅 2026-03-09** - Genetic variant annotation and effect prediction toolbox. \[ [paper-2012](https://www.tandfonline.com/doi/full/10.4161/fly.19695) | [web](https://pcingola.github.io/SnpEff) ]
 * **[Ensembl VEP](https://anaconda.org/bioconda/ensembl-vep)** - The VEP determines the effect of your variants (SNPs, insertions, deletions, CNVs or structural variants) on genes, transcripts, and protein sequence, as well as regulatory regions. \[ [paper-2016](https://doi.org/10.1186/s13059-016-0974-4) | [web](http://www.ensembl.org/info/docs/tools/vep/index.html) ]
 * **[ANNOVAR](https://annovar.openbioinformatics.org/en/latest/)** - An annotation tool for genetic variants, predicting effects on genes, transcripts, and regulatory elements, which allows for custom database integration. \[ [paper-2010](https://doi.org/10.1093/nar/gkq603) | [web](https://annovar.openbioinformatics.org/en/latest/) ]
@@ -243,39 +243,39 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 #### Data
 
-* **[pyensembl](https://github.com/openvax/pyensembl) ⭐ 409 | 🐛 9 | 🌐 Python | 📅 2026-10-02** - Pythonic Access to the Ensembl database. \[ [web](https://pyensembl.readthedocs.io/en/latest/pyensembl.html) ]
+* **[pyensembl](https://github.com/openvax/pyensembl) ⭐ 410 | 🐛 3 | 🌐 Python | 📅 2026-10-05** - Pythonic Access to the Ensembl database. \[ [web](https://pyensembl.readthedocs.io/en/latest/pyensembl.html) ]
 * **[bioservices](https://github.com/cokelaer/bioservices) ⭐ 345 | 🐛 5 | 🌐 Python | 📅 2026-06-12** - Access to Biological Web Services from Python. \[ [paper-2013](https://academic.oup.com/bioinformatics/article/29/24/3241/194040) [web](http://bioservices.readthedocs.io) ]
 * **[cruzdb](https://github.com/brentp/cruzdb) ⭐ 138 | 🐛 13 | 🌐 Python | 📅 2020-08-27** - Pythonic access to the UCSC Genome database. \[ [paper-2013](https://academic.oup.com/bioinformatics/article/29/23/3003/248468) ]
 
 #### Tools
 
-* **[Scanpy](https://github.com/scverse/scanpy) ⭐ 2,578 | 🐛 540 | 🌐 Python | 📅 2026-10-02** - Scalable toolkit for analyzing single-cell gene expression data, including preprocessing, visualization, clustering, and trajectory inference. \[ [paper-2018](https://doi.org/10.1186/s13059-017-1382-0) | [web](https://scanpy.readthedocs.io) ]
-* **[pysam](https://github.com/pysam-developers/pysam) ⭐ 910 | 🐛 267 | 🌐 Cython | 📅 2026-09-07** - Python wrapper for [samtools](https://github.com/samtools/samtools) ⭐ 1,964 | 🐛 205 | 🌐 C | 📅 2026-10-02. \[ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
+* **[Scanpy](https://github.com/scverse/scanpy) ⭐ 2,579 | 🐛 540 | 🌐 Python | 📅 2026-10-05** - Scalable toolkit for analyzing single-cell gene expression data, including preprocessing, visualization, clustering, and trajectory inference. \[ [paper-2018](https://doi.org/10.1186/s13059-017-1382-0) | [web](https://scanpy.readthedocs.io) ]
+* **[pysam](https://github.com/pysam-developers/pysam) ⭐ 910 | 🐛 267 | 🌐 Cython | 📅 2026-09-07** - Python wrapper for [samtools](https://github.com/samtools/samtools) ⭐ 1,964 | 🐛 206 | 🌐 C | 📅 2026-10-02. \[ [web](https://pysam.readthedocs.io/en/latest/api.html) ]
 * **[pyfaidx](https://github.com/mdshw5/pyfaidx) ⭐ 489 | 🐛 3 | 🌐 Python | 📅 2026-09-03** - Pythonic access to FASTA files.
 * **[cyvcf2](https://github.com/brentp/cyvcf2) ⭐ 450 | 🐛 51 | 🌐 Cython | 📅 2026-09-10** - Cython + HTSlib == fast VCF parsing; even faster parsing than pyVCF. \[ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28165109) | [web](https://brentp.github.io/cyvcf2) ]
-* **[pyVCF](https://github.com/jamescasbon/PyVCF) ⭐ 419 | 🐛 100 | 🌐 Python | 📅 2023-09-22** - A VCF Parser for Python. \[ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
+* **[pyVCF](https://github.com/jamescasbon/PyVCF) ⭐ 420 | 🐛 100 | 🌐 Python | 📅 2023-09-22** - A VCF Parser for Python. \[ [web](http://pyvcf.readthedocs.org/en/latest/index.html) ]
 * **[pyBedTools](https://github.com/daler/pybedtools) ⭐ 330 | 🐛 16 | 🌐 Python | 📅 2026-08-26** - Python wrapper for [bedtools](https://github.com/arq5x/bedtools) ⭐ 143 | 🐛 74 | 🌐 C++ | 📅 2021-05-28. \[ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21949271) | [web](http://daler.github.io/pybedtools) ]
 * **[polars-bio](https://github.com/biodatageeks/polars-bio) ⭐ 201 | 🐛 47 | 🌐 Python | 📅 2026-09-21** - Python library for blazing-fast genomic interval operations and genomic file formats I/O on Polars DataFrames \[ [paper-2025](https://doi.org/10.1093/bioinformatics/btaf640) | \[ [web](https://biodatageeks.org/polars-bio/) ] ]
-* **[cyvcf](https://github.com/arq5x/cyvcf) ⭐ 53 | 🐛 12 | 🌐 Python | 📅 2018-03-27** - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) ⭐ 419 | 🐛 100 | 🌐 Python | 📅 2023-09-22 using Cython for speed.
+* **[cyvcf](https://github.com/arq5x/cyvcf) ⭐ 54 | 🐛 12 | 🌐 Python | 📅 2018-03-27** - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) ⭐ 420 | 🐛 100 | 🌐 Python | 📅 2023-09-22 using Cython for speed.
 
 ### Assembly
 
 * **[Minimap2](https://github.com/lh3/minimap2) ⭐ 2,251 | 🐛 77 | 🌐 C | 📅 2026-05-19** - Minimap2 is an pairwise aligner for genomic and spliced nucleotide sequences. It can perform the assembly-to-assembly alignment, and works with gzip'd FASTQ, FASTA formats. It also finds overlaps between long-reads.
-* **[SPAdes](https://github.com/ablab/spades) ⭐ 961 | 🐛 304 | 🌐 C++ | 📅 2026-09-29** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
+* **[SPAdes](https://github.com/ablab/spades) ⭐ 962 | 🐛 303 | 🌐 C++ | 📅 2026-10-05** - SPAdes (St. Petersburg genome assembler) is an assembly toolkit containing various assembly pipelines and the de-facto standard for prokaryotic genome assemblies.
 * **[SKESA](https://github.com/ncbi/SKESA) ⭐ 128 | 🐛 22 | 🌐 C++ | 📅 2024-10-11** - SKESA is a de-novo sequence read assembler for microbial genomes. It uses conservative heuristics and is designed to create breaks at repeat regions in the genome. This leads to excellent sequence quality without significantly compromising contiguity.
 * **[D-GENIES](https://dgenies.toulouse.inra.fr/)** - **D**ot plot large **Gen**omes in an **I**nteractive, **E**fficient and **S**imple way. It is an online tool designed to support large genome, compare two genomes, and you can interact with the dot plot to improve the visualisation. It can also be used for extension of minimap2 by uploading the output generated in PAF(Pairwise mApping Format) or MAF(Multiple Alignment File) alignment files to D-GENIES
 
 ### Annotation
 
 * **[Prokka](https://github.com/tseemann/prokka) ⭐ 994 | 🐛 244 | 🌐 Perl | 📅 2026-01-06** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
-* **[Bakta](https://github.com/oschwengers/bakta) ⭐ 682 | 🐛 28 | 🌐 Python | 📅 2026-08-07** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
+* **[Bakta](https://github.com/oschwengers/bakta) ⭐ 682 | 🐛 29 | 🌐 Python | 📅 2026-08-07** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
 ## Long-read sequencing
 
 ### Long-read Assembly
 
-* **[flye](https://github.com/fenderglass/Flye) ⭐ 951 | 🐛 32 | 🌐 C | 📅 2026-04-03** - De novo assembler for single molecule sequencing reads using repeat graphs.
-* **[hifiasm](https://github.com/chhylp123/hifiasm) ⭐ 816 | 🐛 621 | 🌐 C++ | 📅 2026-05-31** - A haplotype-resolved assembler for accurate Hifi reads.
+* **[flye](https://github.com/fenderglass/Flye) ⭐ 952 | 🐛 32 | 🌐 C | 📅 2026-04-03** - De novo assembler for single molecule sequencing reads using repeat graphs.
+* **[hifiasm](https://github.com/chhylp123/hifiasm) ⭐ 816 | 🐛 620 | 🌐 C++ | 📅 2026-05-31** - A haplotype-resolved assembler for accurate Hifi reads.
 * **[canu](https://github.com/marbl/canu) ⭐ 708 | 🐛 5 | 🌐 C++ | 📅 2026-09-10** - A single molecule sequence assembler for genomes large and small.
 * **[wtdbg2](https://github.com/ruanjue/wtdbg2) ⭐ 533 | 🐛 42 | 🌐 C | 📅 2023-09-27** -  A fuzzy Bruijn graph approach to long noisy reads assembly
 
@@ -285,8 +285,8 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more.
 
-* **[IGV js](https://github.com/igvteam/igv) ⭐ 766 | 🐛 150 | 🌐 Java | 📅 2026-09-24** - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large variety of formats. \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31099383) | [web](https://software.broadinstitute.org/software/igv) ]
-* **[BioJS](https://github.com/biojs/biojs) ⭐ 504 | 🐛 57 | 📅 2021-10-11** - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies. \[ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075290/) | [web](http://biojs.net/) ]
+* **[IGV js](https://github.com/igvteam/igv) ⭐ 766 | 🐛 149 | 🌐 Java | 📅 2026-10-05** - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large variety of formats. \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31099383) | [web](https://software.broadinstitute.org/software/igv) ]
+* **[BioJS](https://github.com/biojs/biojs) ⭐ 503 | 🐛 57 | 📅 2021-10-11** - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies. \[ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075290/) | [web](http://biojs.net/) ]
 * **[JBrowse](https://github.com/GMOD/jbrowse) ⭐ 474 | 🐛 158 | 🌐 JavaScript | 📅 2026-07-16** - JavaScript genome browser that is highly customizable via plugins and track customizations. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27072794) | [web](http://jbrowse.org/) ]
 * **[pileup.js](https://github.com/hammerlab/pileup.js) ⭐ 282 | 🐛 83 | 🌐 JavaScript | 📅 2021-10-26** - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27153605) ]
 * **[biodalliance](https://github.com/dasmoth/dalliance) ⭐ 229 | 🐛 68 | 🌐 JavaScript | 📅 2019-08-28** - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
@@ -342,8 +342,8 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ### RNA-Seq
 
-* [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial) ⭐ 1,435 | 🐛 6 | 🌐 R | 📅 2023-05-31 - Educational resource on performing RNA-seq analysis in the cloud using Amazon AWS cloud services. Topics include preparing the data, preprocessing, differential expression, isoform discovery, data visualization, and interpretation.
-* [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) ⭐ 1,098 | 🐛 1 | 🌐 Python | 📅 2021-11-15 - [@crazyhottommy](https://github.com/crazyhottommy)'s notes on various steps and considerations when doing RNA-seq analysis.
+* [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial) ⭐ 1,436 | 🐛 6 | 🌐 R | 📅 2023-05-31 - Educational resource on performing RNA-seq analysis in the cloud using Amazon AWS cloud services. Topics include preparing the data, preprocessing, differential expression, isoform discovery, data visualization, and interpretation.
+* [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) ⭐ 1,097 | 🐛 1 | 🌐 Python | 📅 2021-11-15 - [@crazyhottommy](https://github.com/crazyhottommy)'s notes on various steps and considerations when doing RNA-seq analysis.
 * [Review papers on RNA-seq (Biostars)](https://www.biostars.org/p/52152/) - Includes lots of seminal papers on RNA-seq and analysis methods.
 * [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia provides an awesome overview of RNA-seq and of the choices necessary to carry out a successful RNA-seq experiment.
 * [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) - Gives awesome roadmap for RNA-seq computational analyses, including challenges/obstacles and things to look out for, but also how you might integrate RNA-seq data with other data types.
@@ -395,4 +395,4 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
