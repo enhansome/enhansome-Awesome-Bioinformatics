@@ -15,7 +15,7 @@
             "id": 151541,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T20:26:47Z",
+            "last_commit": "2026-10-06T09:39:51Z",
             "open_issues": 630,
             "owner": "biopython",
             "repo": "biopython",
@@ -641,8 +641,8 @@
                 "id": 9052236,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T22:02:41Z",
-                "open_issues": 413,
+                "last_commit": "2026-10-06T10:08:21Z",
+                "open_issues": 411,
                 "owner": "nextflow-io",
                 "repo": "nextflow",
                 "stars": 3498,
@@ -1573,7 +1573,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-30T12:29:12Z",
-                    "open_issues": 18,
+                    "open_issues": 19,
                     "owner": "smarco",
                     "repo": "WFA2-lib",
                     "stars": 229,
@@ -1650,7 +1650,7 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-09-30T04:36:10Z",
-                    "open_issues": 287,
+                    "open_issues": 288,
                     "owner": "soedinglab",
                     "repo": "MMseqs2",
                     "stars": 2148,
@@ -1746,7 +1746,7 @@
                 "open_issues": 6,
                 "owner": "google",
                 "repo": "deepvariant",
-                "stars": 3815,
+                "stars": 3816,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -1798,7 +1798,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-03T04:15:40Z",
-                "open_issues": 48,
+                "open_issues": 47,
                 "owner": "freebayes",
                 "repo": "freebayes",
                 "stars": 881,
@@ -2287,7 +2287,7 @@
                 "open_issues": 289,
                 "owner": "arq5x",
                 "repo": "bedtools2",
-                "stars": 1053,
+                "stars": 1054,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -2308,7 +2308,7 @@
                 "open_issues": 27,
                 "owner": "NBISweden",
                 "repo": "AGAT",
-                "stars": 589,
+                "stars": 588,
                 "topics": [
                   "agat",
                   "gff",
@@ -2620,7 +2620,7 @@
                     "open_issues": 3,
                     "owner": "mdshw5",
                     "repo": "pyfaidx",
-                    "stars": 489,
+                    "stars": 490,
                     "topics": [
                       "bgzf",
                       "bioinformatics",
@@ -2785,7 +2785,7 @@
                 "open_issues": 77,
                 "owner": "lh3",
                 "repo": "minimap2",
-                "stars": 2251,
+                "stars": 2252,
                 "topics": [
                   "bioinformatics",
                   "genomics",
@@ -2811,7 +2811,7 @@
                 "open_issues": 303,
                 "owner": "ablab",
                 "repo": "spades",
-                "stars": 962,
+                "stars": 963,
                 "topics": [
                   "genome-assembly",
                   "illumina",
@@ -3557,7 +3557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:19:04.350Z",
+    "last_updated": "2026-10-06T10:30:36.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bioinformatics libraries and software.",
