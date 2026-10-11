@@ -15,8 +15,8 @@
             "id": 151541,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T18:22:23Z",
-            "open_issues": 633,
+            "last_commit": "2026-10-11T16:03:51Z",
+            "open_issues": 634,
             "owner": "biopython",
             "repo": "biopython",
             "stars": 5221,
@@ -641,8 +641,8 @@
                 "id": 9052236,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T04:45:59Z",
-                "open_issues": 405,
+                "last_commit": "2026-10-11T16:00:21Z",
+                "open_issues": 406,
                 "owner": "nextflow-io",
                 "repo": "nextflow",
                 "stars": 3503,
@@ -685,7 +685,7 @@
                 "open_issues": 241,
                 "owner": "common-workflow-language",
                 "repo": "common-workflow-language",
-                "stars": 1478,
+                "stars": 1479,
                 "topics": [
                   "common-workflow-language",
                   "commonwl",
@@ -928,7 +928,7 @@
                 "id": 22013111,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-07T16:41:29Z",
+                "last_commit": "2026-10-11T19:14:38Z",
                 "open_issues": 32,
                 "owner": "pditommaso",
                 "repo": "awesome-pipeline",
@@ -1207,10 +1207,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-07T08:55:45Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "s-andrews",
                 "repo": "FastQC",
-                "stars": 622,
+                "stars": 623,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -1281,11 +1281,11 @@
                 "id": 316275163,
                 "language": "Nim",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T12:44:34Z",
+                "last_commit": "2026-10-11T13:35:06Z",
                 "open_issues": 0,
                 "owner": "telatin",
                 "repo": "seqfu2",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "bioconda",
                   "bioinformatics",
@@ -1396,7 +1396,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-09T20:56:25Z",
-                "open_issues": 379,
+                "open_issues": 380,
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1080,
@@ -1485,7 +1485,7 @@
                     "open_issues": 217,
                     "owner": "bbuchfink",
                     "repo": "diamond",
-                    "stars": 1327,
+                    "stars": 1328,
                     "topics": [
                       "sequence-alignment"
                     ]
@@ -2560,7 +2560,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-09T07:40:00Z",
-                    "open_issues": 550,
+                    "open_issues": 554,
                     "owner": "scverse",
                     "repo": "scanpy",
                     "stars": 2582,
@@ -2890,7 +2890,7 @@
                 "id": 234191178,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-07T06:57:00Z",
+                "last_commit": "2026-10-11T18:53:48Z",
                 "open_issues": 29,
                 "owner": "oschwengers",
                 "repo": "bakta",
@@ -3375,7 +3375,7 @@
                 "open_issues": 2,
                 "owner": "ossu",
                 "repo": "bioinformatics",
-                "stars": 7111,
+                "stars": 7114,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -3403,7 +3403,7 @@
                 "open_issues": 0,
                 "owner": "opendilab",
                 "repo": "awesome-AI-based-protein-design",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -3557,7 +3557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:44:42.622Z",
+    "last_updated": "2026-10-11T19:54:27.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bioinformatics libraries and software.",
@@ -3566,7 +3566,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-27T21:38:10Z",
-      "open_issues": 41,
+      "open_issues": 42,
       "owner": "danielecook",
       "repo": "Awesome-Bioinformatics",
       "stars": 4310,
