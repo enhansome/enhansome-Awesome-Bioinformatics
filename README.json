@@ -641,8 +641,8 @@
                 "id": 9052236,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T11:50:03Z",
-                "open_issues": 435,
+                "last_commit": "2026-11-01T15:25:26Z",
+                "open_issues": 436,
                 "owner": "nextflow-io",
                 "repo": "nextflow",
                 "stars": 3521,
@@ -812,7 +812,7 @@
                 "id": 25450807,
                 "language": "Groovy",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T08:11:49Z",
+                "last_commit": "2026-11-01T06:25:32Z",
                 "open_issues": 158,
                 "owner": "ssadedin",
                 "repo": "bpipe",
@@ -932,7 +932,7 @@
                 "open_issues": 31,
                 "owner": "pditommaso",
                 "repo": "awesome-pipeline",
-                "stars": 6629,
+                "stars": 6630,
                 "topics": [
                   "awesome-list",
                   "workflow"
@@ -1177,7 +1177,7 @@
                 "open_issues": 309,
                 "owner": "MultiQC",
                 "repo": "MultiQC",
-                "stars": 1496,
+                "stars": 1497,
                 "topics": [
                   "analysis",
                   "bioconda",
@@ -1508,7 +1508,7 @@
                     "open_issues": 193,
                     "owner": "BenLangmead",
                     "repo": "bowtie2",
-                    "stars": 812,
+                    "stars": 813,
                     "topics": [
                       "bioinformatics",
                       "c-plus-plus",
@@ -1649,8 +1649,8 @@
                     "id": 63755587,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-10-27T11:03:59Z",
-                    "open_issues": 263,
+                    "last_commit": "2026-11-01T09:11:01Z",
+                    "open_issues": 264,
                     "owner": "soedinglab",
                     "repo": "MMseqs2",
                     "stars": 2165,
@@ -1876,7 +1876,7 @@
                     "open_issues": 41,
                     "owner": "dellytools",
                     "repo": "delly",
-                    "stars": 538,
+                    "stars": 540,
                     "topics": [
                       "cancer-genomics",
                       "delly",
@@ -2365,7 +2365,7 @@
                 "open_issues": 21,
                 "owner": "lh3",
                 "repo": "wgsim",
-                "stars": 291,
+                "stars": 292,
                 "topics": [
                   "bioinformatics",
                   "genomics"
@@ -2563,7 +2563,7 @@
                     "open_issues": 569,
                     "owner": "scverse",
                     "repo": "scanpy",
-                    "stars": 2604,
+                    "stars": 2606,
                     "topics": [
                       "anndata",
                       "bioinformatics",
@@ -2811,7 +2811,7 @@
                 "open_issues": 303,
                 "owner": "ablab",
                 "repo": "spades",
-                "stars": 969,
+                "stars": 970,
                 "topics": [
                   "genome-assembly",
                   "illumina",
@@ -2894,7 +2894,7 @@
                 "open_issues": 30,
                 "owner": "oschwengers",
                 "repo": "bakta",
-                "stars": 691,
+                "stars": 692,
                 "topics": [
                   "annotation",
                   "bacteria",
@@ -3042,8 +3042,8 @@
                 "id": 3416578,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-29T21:37:35Z",
-                "open_issues": 152,
+                "last_commit": "2026-11-01T06:00:20Z",
+                "open_issues": 151,
                 "owner": "igvteam",
                 "repo": "igv",
                 "stars": 769,
@@ -3375,7 +3375,7 @@
                 "open_issues": 2,
                 "owner": "ossu",
                 "repo": "bioinformatics",
-                "stars": 7129,
+                "stars": 7130,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.408Z"
@@ -3510,7 +3510,7 @@
                 "open_issues": 0,
                 "owner": "crazyhottommy",
                 "repo": "ChIP-seq-analysis",
-                "stars": 855,
+                "stars": 854,
                 "topics": [
                   "chip-seq",
                   "histone-modifications",
@@ -3557,7 +3557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:42:58.451Z",
+    "last_updated": "2026-11-01T20:09:52.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bioinformatics libraries and software.",
@@ -3566,7 +3566,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-27T21:38:10Z",
-      "open_issues": 50,
+      "open_issues": 51,
       "owner": "danielecook",
       "repo": "Awesome-Bioinformatics",
       "stars": 4348,
